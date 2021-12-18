@@ -1,0 +1,1321 @@
+game,venue,team,player,n_overs
+1,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,RG Sharma,0
+1,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,CA Lynn,0
+1,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,SA Yadav,0
+1,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,Ishan Kishan,0
+1,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,HH Pandya,1
+1,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,KA Pollard,1
+1,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,KH Pandya,3
+1,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,M Jansen,3
+1,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,RD Chahar,4
+1,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,JJ Bumrah,4
+1,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,TA Boult,4
+1,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Washington Sundar,0
+1,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,V Kohli,0
+1,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,RM Patidar,0
+1,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,GJ Maxwell,0
+1,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,AB de Villiers,0
+1,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Shahbaz Ahmed,2
+1,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,DT Christian,3
+1,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,KA Jamieson,3
+1,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,HV Patel,4
+1,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mohammed Siraj,4
+1,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,YS Chahal,4
+2,Wankhede Stadium,Chennai Super Kings,RD Gaikwad,0
+2,Wankhede Stadium,Chennai Super Kings,F du Plessis,0
+2,Wankhede Stadium,Chennai Super Kings,MM Ali,2
+2,Wankhede Stadium,Chennai Super Kings,SK Raina,0
+2,Wankhede Stadium,Chennai Super Kings,AT Rayudu,0
+2,Wankhede Stadium,Chennai Super Kings,RA Jadeja,2
+2,Wankhede Stadium,Chennai Super Kings,MS Dhoni,0
+2,Wankhede Stadium,Chennai Super Kings,SM Curran,4
+2,Wankhede Stadium,Chennai Super Kings,DJ Bravo,4
+2,Wankhede Stadium,Chennai Super Kings,SN Thakur,4
+2,Wankhede Stadium,Chennai Super Kings,DL Chahar,4
+2,Wankhede Stadium,Delhi Capitals,PP Shaw,0
+2,Wankhede Stadium,Delhi Capitals,S Dhawan,0
+2,Wankhede Stadium,Delhi Capitals,RR Pant,0
+2,Wankhede Stadium,Delhi Capitals,MP Stoinis,0
+2,Wankhede Stadium,Delhi Capitals,SO Hetmyer,0
+2,Wankhede Stadium,Delhi Capitals,AM Rahane,0
+2,Wankhede Stadium,Delhi Capitals,CR Woakes,4
+2,Wankhede Stadium,Delhi Capitals,TK Curran,4
+2,Wankhede Stadium,Delhi Capitals,R Ashwin,4
+2,Wankhede Stadium,Delhi Capitals,A Mishra,4
+2,Wankhede Stadium,Delhi Capitals,Avesh Khan,4
+3,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,N Rana,0
+3,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,Shubman Gill,0
+3,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,RA Tripathi,0
+3,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,AD Russell,0
+3,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,EJG Morgan,0
+3,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,KD Karthik,0
+3,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,Shakib Al Hasan,4
+3,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,PJ Cummins,4
+3,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,Harbhajan Singh,4
+3,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,CV Varun,4
+3,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,M Prasidh Krishna,4
+3,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,WP Saha,0
+3,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,DA Warner,0
+3,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,MK Pandey,0
+3,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,JM Bairstow,0
+3,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,Mohammad Nabi,4
+3,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,V Shankar,0
+3,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,Abdul Samad,0
+3,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,Rashid Khan,4
+3,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,B Kumar,4
+3,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,Sandeep Sharma,4
+3,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,T Natarajan,4
+4,Wankhede Stadium,Punjab Kings,KL Rahul,0
+4,Wankhede Stadium,Punjab Kings,MA Agarwal,0
+4,Wankhede Stadium,Punjab Kings,CH Gayle,1
+4,Wankhede Stadium,Punjab Kings,DJ Hooda,1
+4,Wankhede Stadium,Punjab Kings,N Pooran,0
+4,Wankhede Stadium,Punjab Kings,M Shahrukh Khan,0
+4,Wankhede Stadium,Punjab Kings,JA Richardson,3
+4,Wankhede Stadium,Punjab Kings,M Ashwin,3
+4,Wankhede Stadium,Punjab Kings,Mohammed Shami,4
+4,Wankhede Stadium,Punjab Kings,RP Meredith,4
+4,Wankhede Stadium,Punjab Kings,Arshdeep Singh,4
+4,Wankhede Stadium,Rajasthan Royals,BA Stokes,3
+4,Wankhede Stadium,Rajasthan Royals,M Vohra,0
+4,Wankhede Stadium,Rajasthan Royals,SV Samson,0
+4,Wankhede Stadium,Rajasthan Royals,JC Buttler,0
+4,Wankhede Stadium,Rajasthan Royals,S Dube,0
+4,Wankhede Stadium,Rajasthan Royals,R Parag,0
+4,Wankhede Stadium,Rajasthan Royals,R Tewatia,2
+4,Wankhede Stadium,Rajasthan Royals,CH Morris,4
+4,Wankhede Stadium,Rajasthan Royals,S Gopal,3
+4,Wankhede Stadium,Rajasthan Royals,C Sakariya,4
+4,Wankhede Stadium,Rajasthan Royals,Mustafizur Rahman,4
+5,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,RG Sharma,0
+5,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,Q de Kock,0
+5,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,SA Yadav,0
+5,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,Ishan Kishan,0
+5,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,HH Pandya,1
+5,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,KA Pollard,1
+5,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,KH Pandya,3
+5,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,M Jansen,3
+5,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,RD Chahar,4
+5,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,JJ Bumrah,4
+5,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,TA Boult,4
+5,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,N Rana,0
+5,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,Shubman Gill,0
+5,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,RA Tripathi,0
+5,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,EJG Morgan,0
+5,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,Shakib Al Hasan,4
+5,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,KD Karthik,0
+5,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,AD Russell,0
+5,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,PJ Cummins,4
+5,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,Harbhajan Singh,4
+5,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,CV Varun,4
+5,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,M Prasidh Krishna,4
+6,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,V Kohli,0
+6,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,D Padikkal,0
+6,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Shahbaz Ahmed,1
+6,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,GJ Maxwell,0
+6,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,AB de Villiers,0
+6,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Washington Sundar,2
+6,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,DT Christian,2
+6,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,KA Jamieson,3
+6,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,HV Patel,4
+6,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mohammed Siraj,4
+6,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,YS Chahal,4
+6,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,WP Saha,0
+6,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,DA Warner,0
+6,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,MK Pandey,0
+6,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,JM Bairstow,0
+6,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,Abdul Samad,0
+6,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,V Shankar,0
+6,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,JO Holder,4
+6,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,Rashid Khan,4
+6,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,B Kumar,4
+6,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,S Nadeem,4
+6,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,T Natarajan,4
+7,Wankhede Stadium,Delhi Capitals,PP Shaw,0
+7,Wankhede Stadium,Delhi Capitals,S Dhawan,0
+7,Wankhede Stadium,Delhi Capitals,AM Rahane,0
+7,Wankhede Stadium,Delhi Capitals,RR Pant,0
+7,Wankhede Stadium,Delhi Capitals,MP Stoinis,1
+7,Wankhede Stadium,Delhi Capitals,Lalit Yadav,1
+7,Wankhede Stadium,Delhi Capitals,TK Curran,2
+7,Wankhede Stadium,Delhi Capitals,CR Woakes,4
+7,Wankhede Stadium,Delhi Capitals,R Ashwin,4
+7,Wankhede Stadium,Delhi Capitals,K Rabada,4
+7,Wankhede Stadium,Delhi Capitals,Avesh Khan,4
+7,Wankhede Stadium,Rajasthan Royals,JC Buttler,0
+7,Wankhede Stadium,Rajasthan Royals,M Vohra,0
+7,Wankhede Stadium,Rajasthan Royals,SV Samson,0
+7,Wankhede Stadium,Rajasthan Royals,S Dube,1
+7,Wankhede Stadium,Rajasthan Royals,DA Miller,0
+7,Wankhede Stadium,Rajasthan Royals,R Parag,1
+7,Wankhede Stadium,Rajasthan Royals,R Tewatia,3
+7,Wankhede Stadium,Rajasthan Royals,CH Morris,4
+7,Wankhede Stadium,Rajasthan Royals,JD Unadkat,3
+7,Wankhede Stadium,Rajasthan Royals,C Sakariya,4
+7,Wankhede Stadium,Rajasthan Royals,Mustafizur Rahman,4
+8,Wankhede Stadium,Punjab Kings,KL Rahul,0
+8,Wankhede Stadium,Punjab Kings,MA Agarwal,0
+8,Wankhede Stadium,Punjab Kings,CH Gayle,1
+8,Wankhede Stadium,Punjab Kings,DJ Hooda,1
+8,Wankhede Stadium,Punjab Kings,N Pooran,0
+8,Wankhede Stadium,Punjab Kings,M Shahrukh Khan,0
+8,Wankhede Stadium,Punjab Kings,JA Richardson,3
+8,Wankhede Stadium,Punjab Kings,M Ashwin,3
+8,Wankhede Stadium,Punjab Kings,Mohammed Shami,4
+8,Wankhede Stadium,Punjab Kings,RP Meredith,4
+8,Wankhede Stadium,Punjab Kings,Arshdeep Singh,4
+8,Wankhede Stadium,Chennai Super Kings,RD Gaikwad,0
+8,Wankhede Stadium,Chennai Super Kings,F du Plessis,0
+8,Wankhede Stadium,Chennai Super Kings,MM Ali,2
+8,Wankhede Stadium,Chennai Super Kings,SK Raina,0
+8,Wankhede Stadium,Chennai Super Kings,AT Rayudu,0
+8,Wankhede Stadium,Chennai Super Kings,SM Curran,3
+8,Wankhede Stadium,Chennai Super Kings,RA Jadeja,3
+8,Wankhede Stadium,Chennai Super Kings,MS Dhoni,0
+8,Wankhede Stadium,Chennai Super Kings,DJ Bravo,4
+8,Wankhede Stadium,Chennai Super Kings,SN Thakur,4
+8,Wankhede Stadium,Chennai Super Kings,DL Chahar,4
+9,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,Q de Kock,0
+9,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,RG Sharma,0
+9,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,SA Yadav,0
+9,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,Ishan Kishan,0
+9,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,KA Pollard,1
+9,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,HH Pandya,1
+9,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,KH Pandya,3
+9,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,AF Milne,4
+9,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,RD Chahar,3
+9,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,JJ Bumrah,4
+9,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,TA Boult,4
+9,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,DA Warner,0
+9,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,JM Bairstow,0
+9,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,MK Pandey,0
+9,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,Virat Singh,0
+9,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,V Shankar,1
+9,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,Abhishek Sharma,1
+9,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,Abdul Samad,2
+9,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,Rashid Khan,4
+9,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,B Kumar,4
+9,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,Mujeeb Ur Rahman,4
+9,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,KK Ahmed,4
+10,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,V Kohli,0
+10,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,D Padikkal,0
+10,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,RM Patidar,0
+10,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,GJ Maxwell,0
+10,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,AB de Villiers,0
+10,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,KA Jamieson,3
+10,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Washington Sundar,3
+10,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Shahbaz Ahmed,3
+10,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,HV Patel,3
+10,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mohammed Siraj,4
+10,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,YS Chahal,4
+10,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,N Rana,0
+10,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,Shubman Gill,0
+10,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,RA Tripathi,0
+10,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,EJG Morgan,0
+10,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,KD Karthik,0
+10,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,Shakib Al Hasan,4
+10,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,AD Russell,0
+10,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,PJ Cummins,4
+10,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,Harbhajan Singh,4
+10,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,CV Varun,4
+10,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,M Prasidh Krishna,4
+11,Wankhede Stadium,Punjab Kings,KL Rahul,0
+11,Wankhede Stadium,Punjab Kings,MA Agarwal,0
+11,Wankhede Stadium,Punjab Kings,CH Gayle,1
+11,Wankhede Stadium,Punjab Kings,DJ Hooda,1
+11,Wankhede Stadium,Punjab Kings,N Pooran,0
+11,Wankhede Stadium,Punjab Kings,M Shahrukh Khan,0
+11,Wankhede Stadium,Punjab Kings,Jalaj S Saxena,3
+11,Wankhede Stadium,Punjab Kings,JA Richardson,3
+11,Wankhede Stadium,Punjab Kings,Mohammed Shami,4
+11,Wankhede Stadium,Punjab Kings,RP Meredith,4
+11,Wankhede Stadium,Punjab Kings,Arshdeep Singh,4
+11,Wankhede Stadium,Delhi Capitals,PP Shaw,0
+11,Wankhede Stadium,Delhi Capitals,S Dhawan,0
+11,Wankhede Stadium,Delhi Capitals,SPD Smith,0
+11,Wankhede Stadium,Delhi Capitals,RR Pant,0
+11,Wankhede Stadium,Delhi Capitals,MP Stoinis,1
+11,Wankhede Stadium,Delhi Capitals,Lalit Yadav,1
+11,Wankhede Stadium,Delhi Capitals,LI Meriwala,2
+11,Wankhede Stadium,Delhi Capitals,CR Woakes,4
+11,Wankhede Stadium,Delhi Capitals,R Ashwin,4
+11,Wankhede Stadium,Delhi Capitals,K Rabada,4
+11,Wankhede Stadium,Delhi Capitals,Avesh Khan,4
+12,Wankhede Stadium,Chennai Super Kings,RD Gaikwad,0
+12,Wankhede Stadium,Chennai Super Kings,F du Plessis,0
+12,Wankhede Stadium,Chennai Super Kings,MM Ali,2
+12,Wankhede Stadium,Chennai Super Kings,SK Raina,0
+12,Wankhede Stadium,Chennai Super Kings,AT Rayudu,0
+12,Wankhede Stadium,Chennai Super Kings,RA Jadeja,2
+12,Wankhede Stadium,Chennai Super Kings,MS Dhoni,0
+12,Wankhede Stadium,Chennai Super Kings,SM Curran,4
+12,Wankhede Stadium,Chennai Super Kings,DJ Bravo,4
+12,Wankhede Stadium,Chennai Super Kings,SN Thakur,4
+12,Wankhede Stadium,Chennai Super Kings,DL Chahar,4
+12,Wankhede Stadium,Rajasthan Royals,JC Buttler,0
+12,Wankhede Stadium,Rajasthan Royals,M Vohra,0
+12,Wankhede Stadium,Rajasthan Royals,SV Samson,0
+12,Wankhede Stadium,Rajasthan Royals,S Dube,1
+12,Wankhede Stadium,Rajasthan Royals,DA Miller,0
+12,Wankhede Stadium,Rajasthan Royals,R Parag,1
+12,Wankhede Stadium,Rajasthan Royals,R Tewatia,3
+12,Wankhede Stadium,Rajasthan Royals,CH Morris,4
+12,Wankhede Stadium,Rajasthan Royals,JD Unadkat,3
+12,Wankhede Stadium,Rajasthan Royals,C Sakariya,4
+12,Wankhede Stadium,Rajasthan Royals,Mustafizur Rahman,4
+13,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,RG Sharma,0
+13,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,Q de Kock,0
+13,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,SA Yadav,0
+13,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,Ishan Kishan,0
+13,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,HH Pandya,2
+13,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,KH Pandya,3
+13,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,KA Pollard,1
+13,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,J Yadav,3
+13,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,RD Chahar,3
+13,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,JJ Bumrah,4
+13,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,TA Boult,4
+13,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,PP Shaw,0
+13,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,S Dhawan,0
+13,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,SPD Smith,0
+13,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,Lalit Yadav,2
+13,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,RR Pant,0
+13,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,SO Hetmyer,0
+13,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,MP Stoinis,2
+13,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,R Ashwin,4
+13,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,K Rabada,4
+13,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,Avesh Khan,4
+13,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,A Mishra,4
+14,"MA Chidambaram Stadium, Chepauk",Punjab Kings,KL Rahul,0
+14,"MA Chidambaram Stadium, Chepauk",Punjab Kings,MA Agarwal,0
+14,"MA Chidambaram Stadium, Chepauk",Punjab Kings,CH Gayle,1
+14,"MA Chidambaram Stadium, Chepauk",Punjab Kings,N Pooran,0
+14,"MA Chidambaram Stadium, Chepauk",Punjab Kings,DJ Hooda,1
+14,"MA Chidambaram Stadium, Chepauk",Punjab Kings,MC Henriques,3
+14,"MA Chidambaram Stadium, Chepauk",Punjab Kings,M Shahrukh Khan,0
+14,"MA Chidambaram Stadium, Chepauk",Punjab Kings,FA Allen,3
+14,"MA Chidambaram Stadium, Chepauk",Punjab Kings,M Ashwin,4
+14,"MA Chidambaram Stadium, Chepauk",Punjab Kings,Mohammed Shami,4
+14,"MA Chidambaram Stadium, Chepauk",Punjab Kings,Arshdeep Singh,4
+14,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,DA Warner,0
+14,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,JM Bairstow,0
+14,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,KS Williamson,0
+14,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,Virat Singh,0
+14,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,KM Jadhav,0
+14,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,V Shankar,2
+14,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,Abhishek Sharma,2
+14,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,Rashid Khan,4
+14,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,B Kumar,4
+14,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,S Kaul,4
+14,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,KK Ahmed,4
+15,Wankhede Stadium,Chennai Super Kings,RD Gaikwad,0
+15,Wankhede Stadium,Chennai Super Kings,F du Plessis,0
+15,Wankhede Stadium,Chennai Super Kings,MM Ali,3
+15,Wankhede Stadium,Chennai Super Kings,MS Dhoni,0
+15,Wankhede Stadium,Chennai Super Kings,RA Jadeja,2
+15,Wankhede Stadium,Chennai Super Kings,SK Raina,1
+15,Wankhede Stadium,Chennai Super Kings,AT Rayudu,0
+15,Wankhede Stadium,Chennai Super Kings,SM Curran,3
+15,Wankhede Stadium,Chennai Super Kings,SN Thakur,3
+15,Wankhede Stadium,Chennai Super Kings,DL Chahar,4
+15,Wankhede Stadium,Chennai Super Kings,L Ngidi,4
+15,Wankhede Stadium,Kolkata Knight Riders,N Rana,0
+15,Wankhede Stadium,Kolkata Knight Riders,Shubman Gill,0
+15,Wankhede Stadium,Kolkata Knight Riders,RA Tripathi,0
+15,Wankhede Stadium,Kolkata Knight Riders,EJG Morgan,0
+15,Wankhede Stadium,Kolkata Knight Riders,SP Narine,3
+15,Wankhede Stadium,Kolkata Knight Riders,KD Karthik,0
+15,Wankhede Stadium,Kolkata Knight Riders,AD Russell,2
+15,Wankhede Stadium,Kolkata Knight Riders,PJ Cummins,4
+15,Wankhede Stadium,Kolkata Knight Riders,KL Nagarkoti,3
+15,Wankhede Stadium,Kolkata Knight Riders,CV Varun,4
+15,Wankhede Stadium,Kolkata Knight Riders,M Prasidh Krishna,4
+16,Wankhede Stadium,Rajasthan Royals,JC Buttler,0
+16,Wankhede Stadium,Rajasthan Royals,M Vohra,0
+16,Wankhede Stadium,Rajasthan Royals,SV Samson,0
+16,Wankhede Stadium,Rajasthan Royals,DA Miller,0
+16,Wankhede Stadium,Rajasthan Royals,S Dube,1
+16,Wankhede Stadium,Rajasthan Royals,R Parag,1
+16,Wankhede Stadium,Rajasthan Royals,R Tewatia,3
+16,Wankhede Stadium,Rajasthan Royals,CH Morris,4
+16,Wankhede Stadium,Rajasthan Royals,S Gopal,3
+16,Wankhede Stadium,Rajasthan Royals,C Sakariya,4
+16,Wankhede Stadium,Rajasthan Royals,Mustafizur Rahman,4
+16,Wankhede Stadium,Royal Challengers Bangalore,V Kohli,0
+16,Wankhede Stadium,Royal Challengers Bangalore,D Padikkal,0
+16,Wankhede Stadium,Royal Challengers Bangalore,GJ Maxwell,0
+16,Wankhede Stadium,Royal Challengers Bangalore,AB de Villiers,0
+16,Wankhede Stadium,Royal Challengers Bangalore,Washington Sundar,2
+16,Wankhede Stadium,Royal Challengers Bangalore,KA Jamieson,3
+16,Wankhede Stadium,Royal Challengers Bangalore,Shahbaz Ahmed,2
+16,Wankhede Stadium,Royal Challengers Bangalore,HV Patel,2
+16,Wankhede Stadium,Royal Challengers Bangalore,Mohammed Siraj,3
+16,Wankhede Stadium,Royal Challengers Bangalore,KW Richardson,4
+16,Wankhede Stadium,Royal Challengers Bangalore,YS Chahal,4
+17,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,Q de Kock,0
+17,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,RG Sharma,0
+17,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,Ishan Kishan,0
+17,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,SA Yadav,0
+17,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,KA Pollard,1
+17,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,HH Pandya,2
+17,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,KH Pandya,3
+17,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,J Yadav,3
+17,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,RD Chahar,3
+17,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,JJ Bumrah,4
+17,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,TA Boult,4
+17,"MA Chidambaram Stadium, Chepauk",Punjab Kings,KL Rahul,0
+17,"MA Chidambaram Stadium, Chepauk",Punjab Kings,MA Agarwal,0
+17,"MA Chidambaram Stadium, Chepauk",Punjab Kings,CH Gayle,1
+17,"MA Chidambaram Stadium, Chepauk",Punjab Kings,DJ Hooda,1
+17,"MA Chidambaram Stadium, Chepauk",Punjab Kings,N Pooran,0
+17,"MA Chidambaram Stadium, Chepauk",Punjab Kings,MC Henriques,2
+17,"MA Chidambaram Stadium, Chepauk",Punjab Kings,M Shahrukh Khan,0
+17,"MA Chidambaram Stadium, Chepauk",Punjab Kings,FA Allen,4
+17,"MA Chidambaram Stadium, Chepauk",Punjab Kings,Mohammed Shami,4
+17,"MA Chidambaram Stadium, Chepauk",Punjab Kings,Ravi Bishnoi,4
+17,"MA Chidambaram Stadium, Chepauk",Punjab Kings,Arshdeep Singh,4
+18,Wankhede Stadium,Kolkata Knight Riders,N Rana,0
+18,Wankhede Stadium,Kolkata Knight Riders,Shubman Gill,0
+18,Wankhede Stadium,Kolkata Knight Riders,RA Tripathi,0
+18,Wankhede Stadium,Kolkata Knight Riders,SP Narine,3
+18,Wankhede Stadium,Kolkata Knight Riders,EJG Morgan,0
+18,Wankhede Stadium,Kolkata Knight Riders,KD Karthik,0
+18,Wankhede Stadium,Kolkata Knight Riders,AD Russell,3
+18,Wankhede Stadium,Kolkata Knight Riders,PJ Cummins,3
+18,Wankhede Stadium,Kolkata Knight Riders,Shivam Mavi,3
+18,Wankhede Stadium,Kolkata Knight Riders,M Prasidh Krishna,4
+18,Wankhede Stadium,Kolkata Knight Riders,CV Varun,4
+18,Wankhede Stadium,Rajasthan Royals,JC Buttler,0
+18,Wankhede Stadium,Rajasthan Royals,YBK Jaiswal,0
+18,Wankhede Stadium,Rajasthan Royals,SV Samson,0
+18,Wankhede Stadium,Rajasthan Royals,S Dube,1
+18,Wankhede Stadium,Rajasthan Royals,R Tewatia,3
+18,Wankhede Stadium,Rajasthan Royals,DA Miller,0
+18,Wankhede Stadium,Rajasthan Royals,R Parag,1
+18,Wankhede Stadium,Rajasthan Royals,CH Morris,4
+18,Wankhede Stadium,Rajasthan Royals,JD Unadkat,3
+18,Wankhede Stadium,Rajasthan Royals,C Sakariya,4
+18,Wankhede Stadium,Rajasthan Royals,Mustafizur Rahman,4
+19,Wankhede Stadium,Chennai Super Kings,RD Gaikwad,0
+19,Wankhede Stadium,Chennai Super Kings,F du Plessis,0
+19,Wankhede Stadium,Chennai Super Kings,SK Raina,1
+19,Wankhede Stadium,Chennai Super Kings,AT Rayudu,0
+19,Wankhede Stadium,Chennai Super Kings,RA Jadeja,2
+19,Wankhede Stadium,Chennai Super Kings,MS Dhoni,0
+19,Wankhede Stadium,Chennai Super Kings,DJ Bravo,3
+19,Wankhede Stadium,Chennai Super Kings,SM Curran,3
+19,Wankhede Stadium,Chennai Super Kings,SN Thakur,3
+19,Wankhede Stadium,Chennai Super Kings,DL Chahar,4
+19,Wankhede Stadium,Chennai Super Kings,Imran Tahir,4
+19,Wankhede Stadium,Royal Challengers Bangalore,V Kohli,0
+19,Wankhede Stadium,Royal Challengers Bangalore,D Padikkal,0
+19,Wankhede Stadium,Royal Challengers Bangalore,Washington Sundar,2
+19,Wankhede Stadium,Royal Challengers Bangalore,GJ Maxwell,0
+19,Wankhede Stadium,Royal Challengers Bangalore,AB de Villiers,0
+19,Wankhede Stadium,Royal Challengers Bangalore,DT Christian,2
+19,Wankhede Stadium,Royal Challengers Bangalore,KA Jamieson,2
+19,Wankhede Stadium,Royal Challengers Bangalore,HV Patel,2
+19,Wankhede Stadium,Royal Challengers Bangalore,NA Saini,4
+19,Wankhede Stadium,Royal Challengers Bangalore,YS Chahal,4
+19,Wankhede Stadium,Royal Challengers Bangalore,Mohammed Siraj,4
+20,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,PP Shaw,0
+20,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,S Dhawan,0
+20,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,RR Pant,0
+20,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,SPD Smith,0
+20,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,SO Hetmyer,0
+20,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,MP Stoinis,1
+20,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,AR Patel,3
+20,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,R Ashwin,4
+20,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,K Rabada,4
+20,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,Avesh Khan,4
+20,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,A Mishra,4
+20,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,DA Warner,0
+20,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,JM Bairstow,0
+20,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,KS Williamson,0
+20,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,Virat Singh,0
+20,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,KM Jadhav,0
+20,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,Abhishek Sharma,2
+20,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,Rashid Khan,4
+20,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,V Shankar,2
+20,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,J Suchith,4
+20,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,S Kaul,4
+20,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,KK Ahmed,4
+21,"Sardar Patel Stadium, Motera",Punjab Kings,KL Rahul,0
+21,"Sardar Patel Stadium, Motera",Punjab Kings,MA Agarwal,0
+21,"Sardar Patel Stadium, Motera",Punjab Kings,CH Gayle,1
+21,"Sardar Patel Stadium, Motera",Punjab Kings,DJ Hooda,1
+21,"Sardar Patel Stadium, Motera",Punjab Kings,N Pooran,0
+21,"Sardar Patel Stadium, Motera",Punjab Kings,MC Henriques,3
+21,"Sardar Patel Stadium, Motera",Punjab Kings,M Shahrukh Khan,0
+21,"Sardar Patel Stadium, Motera",Punjab Kings,CJ Jordan,3
+21,"Sardar Patel Stadium, Motera",Punjab Kings,Ravi Bishnoi,4
+21,"Sardar Patel Stadium, Motera",Punjab Kings,Mohammed Shami,4
+21,"Sardar Patel Stadium, Motera",Punjab Kings,Arshdeep Singh,4
+21,"Sardar Patel Stadium, Motera",Kolkata Knight Riders,Shubman Gill,0
+21,"Sardar Patel Stadium, Motera",Kolkata Knight Riders,N Rana,0
+21,"Sardar Patel Stadium, Motera",Kolkata Knight Riders,RA Tripathi,0
+21,"Sardar Patel Stadium, Motera",Kolkata Knight Riders,SP Narine,3
+21,"Sardar Patel Stadium, Motera",Kolkata Knight Riders,EJG Morgan,0
+21,"Sardar Patel Stadium, Motera",Kolkata Knight Riders,AD Russell,3
+21,"Sardar Patel Stadium, Motera",Kolkata Knight Riders,KD Karthik,0
+21,"Sardar Patel Stadium, Motera",Kolkata Knight Riders,PJ Cummins,3
+21,"Sardar Patel Stadium, Motera",Kolkata Knight Riders,Shivam Mavi,3
+21,"Sardar Patel Stadium, Motera",Kolkata Knight Riders,CV Varun,4
+21,"Sardar Patel Stadium, Motera",Kolkata Knight Riders,M Prasidh Krishna,4
+22,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore,V Kohli,0
+22,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore,D Padikkal,0
+22,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore,RM Patidar,0
+22,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore,GJ Maxwell,0
+22,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore,AB de Villiers,0
+22,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore,Washington Sundar,3
+22,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore,DR Sams,3
+22,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore,KA Jamieson,3
+22,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore,HV Patel,3
+22,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore,Mohammed Siraj,4
+22,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore,YS Chahal,4
+22,"Sardar Patel Stadium, Motera",Delhi Capitals,PP Shaw,0
+22,"Sardar Patel Stadium, Motera",Delhi Capitals,S Dhawan,0
+22,"Sardar Patel Stadium, Motera",Delhi Capitals,SPD Smith,0
+22,"Sardar Patel Stadium, Motera",Delhi Capitals,RR Pant,0
+22,"Sardar Patel Stadium, Motera",Delhi Capitals,MP Stoinis,2
+22,"Sardar Patel Stadium, Motera",Delhi Capitals,SO Hetmyer,0
+22,"Sardar Patel Stadium, Motera",Delhi Capitals,AR Patel,3
+22,"Sardar Patel Stadium, Motera",Delhi Capitals,K Rabada,4
+22,"Sardar Patel Stadium, Motera",Delhi Capitals,Avesh Khan,3
+22,"Sardar Patel Stadium, Motera",Delhi Capitals,A Mishra,4
+22,"Sardar Patel Stadium, Motera",Delhi Capitals,I Sharma,4
+23,Feroz Shah Kotla,Sunrisers Hyderabad,DA Warner,0
+23,Feroz Shah Kotla,Sunrisers Hyderabad,JM Bairstow,0
+23,Feroz Shah Kotla,Sunrisers Hyderabad,MK Pandey,0
+23,Feroz Shah Kotla,Sunrisers Hyderabad,KS Williamson,0
+23,Feroz Shah Kotla,Sunrisers Hyderabad,KM Jadhav,0
+23,Feroz Shah Kotla,Sunrisers Hyderabad,Rashid Khan,4
+23,Feroz Shah Kotla,Sunrisers Hyderabad,V Shankar,1
+23,Feroz Shah Kotla,Sunrisers Hyderabad,J Suchith,3
+23,Feroz Shah Kotla,Sunrisers Hyderabad,S Kaul,4
+23,Feroz Shah Kotla,Sunrisers Hyderabad,KK Ahmed,4
+23,Feroz Shah Kotla,Sunrisers Hyderabad,Sandeep Sharma,4
+23,Feroz Shah Kotla,Chennai Super Kings,RD Gaikwad,0
+23,Feroz Shah Kotla,Chennai Super Kings,F du Plessis,0
+23,Feroz Shah Kotla,Chennai Super Kings,MM Ali,2
+23,Feroz Shah Kotla,Chennai Super Kings,RA Jadeja,2
+23,Feroz Shah Kotla,Chennai Super Kings,SK Raina,1
+23,Feroz Shah Kotla,Chennai Super Kings,AT Rayudu,0
+23,Feroz Shah Kotla,Chennai Super Kings,MS Dhoni,0
+23,Feroz Shah Kotla,Chennai Super Kings,SM Curran,4
+23,Feroz Shah Kotla,Chennai Super Kings,SN Thakur,3
+23,Feroz Shah Kotla,Chennai Super Kings,DL Chahar,4
+23,Feroz Shah Kotla,Chennai Super Kings,L Ngidi,4
+24,Feroz Shah Kotla,Rajasthan Royals,JC Buttler,0
+24,Feroz Shah Kotla,Rajasthan Royals,YBK Jaiswal,0
+24,Feroz Shah Kotla,Rajasthan Royals,SV Samson,0
+24,Feroz Shah Kotla,Rajasthan Royals,S Dube,1
+24,Feroz Shah Kotla,Rajasthan Royals,DA Miller,0
+24,Feroz Shah Kotla,Rajasthan Royals,R Parag,1
+24,Feroz Shah Kotla,Rajasthan Royals,R Tewatia,3
+24,Feroz Shah Kotla,Rajasthan Royals,CH Morris,4
+24,Feroz Shah Kotla,Rajasthan Royals,JD Unadkat,3
+24,Feroz Shah Kotla,Rajasthan Royals,C Sakariya,4
+24,Feroz Shah Kotla,Rajasthan Royals,Mustafizur Rahman,4
+24,Feroz Shah Kotla,Mumbai Indians,RG Sharma,0
+24,Feroz Shah Kotla,Mumbai Indians,Q de Kock,0
+24,Feroz Shah Kotla,Mumbai Indians,SA Yadav,0
+24,Feroz Shah Kotla,Mumbai Indians,KH Pandya,2
+24,Feroz Shah Kotla,Mumbai Indians,KA Pollard,0
+24,Feroz Shah Kotla,Mumbai Indians,HH Pandya,1
+24,Feroz Shah Kotla,Mumbai Indians,NM Coulter-Nile,3
+24,Feroz Shah Kotla,Mumbai Indians,J Yadav,3
+24,Feroz Shah Kotla,Mumbai Indians,RD Chahar,3
+24,Feroz Shah Kotla,Mumbai Indians,JJ Bumrah,4
+24,Feroz Shah Kotla,Mumbai Indians,TA Boult,4
+25,"Sardar Patel Stadium, Motera",Kolkata Knight Riders,N Rana,0
+25,"Sardar Patel Stadium, Motera",Kolkata Knight Riders,Shubman Gill,0
+25,"Sardar Patel Stadium, Motera",Kolkata Knight Riders,RA Tripathi,0
+25,"Sardar Patel Stadium, Motera",Kolkata Knight Riders,EJG Morgan,0
+25,"Sardar Patel Stadium, Motera",Kolkata Knight Riders,SP Narine,3
+25,"Sardar Patel Stadium, Motera",Kolkata Knight Riders,AD Russell,2
+25,"Sardar Patel Stadium, Motera",Kolkata Knight Riders,KD Karthik,0
+25,"Sardar Patel Stadium, Motera",Kolkata Knight Riders,PJ Cummins,4
+25,"Sardar Patel Stadium, Motera",Kolkata Knight Riders,Shivam Mavi,3
+25,"Sardar Patel Stadium, Motera",Kolkata Knight Riders,CV Varun,4
+25,"Sardar Patel Stadium, Motera",Kolkata Knight Riders,M Prasidh Krishna,4
+25,"Sardar Patel Stadium, Motera",Delhi Capitals,PP Shaw,0
+25,"Sardar Patel Stadium, Motera",Delhi Capitals,S Dhawan,0
+25,"Sardar Patel Stadium, Motera",Delhi Capitals,RR Pant,0
+25,"Sardar Patel Stadium, Motera",Delhi Capitals,MP Stoinis,2
+25,"Sardar Patel Stadium, Motera",Delhi Capitals,SO Hetmyer,0
+25,"Sardar Patel Stadium, Motera",Delhi Capitals,SPD Smith,0
+25,"Sardar Patel Stadium, Motera",Delhi Capitals,Lalit Yadav,3
+25,"Sardar Patel Stadium, Motera",Delhi Capitals,AR Patel,3
+25,"Sardar Patel Stadium, Motera",Delhi Capitals,K Rabada,4
+25,"Sardar Patel Stadium, Motera",Delhi Capitals,Avesh Khan,4
+25,"Sardar Patel Stadium, Motera",Delhi Capitals,I Sharma,4
+26,"Sardar Patel Stadium, Motera",Punjab Kings,KL Rahul,0
+26,"Sardar Patel Stadium, Motera",Punjab Kings,P Simran Singh,0
+26,"Sardar Patel Stadium, Motera",Punjab Kings,CH Gayle,1
+26,"Sardar Patel Stadium, Motera",Punjab Kings,N Pooran,0
+26,"Sardar Patel Stadium, Motera",Punjab Kings,DJ Hooda,1
+26,"Sardar Patel Stadium, Motera",Punjab Kings,M Shahrukh Khan,0
+26,"Sardar Patel Stadium, Motera",Punjab Kings,Harpreet Brar,3
+26,"Sardar Patel Stadium, Motera",Punjab Kings,RP Meredith,3
+26,"Sardar Patel Stadium, Motera",Punjab Kings,Ravi Bishnoi,4
+26,"Sardar Patel Stadium, Motera",Punjab Kings,Mohammed Shami,4
+26,"Sardar Patel Stadium, Motera",Punjab Kings,CJ Jordan,4
+26,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore,V Kohli,0
+26,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore,D Padikkal,0
+26,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore,RM Patidar,0
+26,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore,GJ Maxwell,0
+26,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore,AB de Villiers,0
+26,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore,Shahbaz Ahmed,2
+26,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore,DR Sams,4
+26,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore,KA Jamieson,3
+26,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore,HV Patel,3
+26,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore,Mohammed Siraj,4
+26,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore,YS Chahal,4
+27,Feroz Shah Kotla,Chennai Super Kings,RD Gaikwad,0
+27,Feroz Shah Kotla,Chennai Super Kings,F du Plessis,0
+27,Feroz Shah Kotla,Chennai Super Kings,MM Ali,3
+27,Feroz Shah Kotla,Chennai Super Kings,SK Raina,1
+27,Feroz Shah Kotla,Chennai Super Kings,AT Rayudu,0
+27,Feroz Shah Kotla,Chennai Super Kings,RA Jadeja,2
+27,Feroz Shah Kotla,Chennai Super Kings,MS Dhoni,0
+27,Feroz Shah Kotla,Chennai Super Kings,SM Curran,3
+27,Feroz Shah Kotla,Chennai Super Kings,SN Thakur,3
+27,Feroz Shah Kotla,Chennai Super Kings,DL Chahar,4
+27,Feroz Shah Kotla,Chennai Super Kings,L Ngidi,4
+27,Feroz Shah Kotla,Mumbai Indians,Q de Kock,0
+27,Feroz Shah Kotla,Mumbai Indians,RG Sharma,0
+27,Feroz Shah Kotla,Mumbai Indians,SA Yadav,0
+27,Feroz Shah Kotla,Mumbai Indians,KH Pandya,2
+27,Feroz Shah Kotla,Mumbai Indians,KA Pollard,0
+27,Feroz Shah Kotla,Mumbai Indians,HH Pandya,1
+27,Feroz Shah Kotla,Mumbai Indians,JDS Neesham,3
+27,Feroz Shah Kotla,Mumbai Indians,DS Kulkarni,3
+27,Feroz Shah Kotla,Mumbai Indians,RD Chahar,3
+27,Feroz Shah Kotla,Mumbai Indians,JJ Bumrah,4
+27,Feroz Shah Kotla,Mumbai Indians,TA Boult,4
+28,Feroz Shah Kotla,Rajasthan Royals,JC Buttler,0
+28,Feroz Shah Kotla,Rajasthan Royals,YBK Jaiswal,0
+28,Feroz Shah Kotla,Rajasthan Royals,SV Samson,0
+28,Feroz Shah Kotla,Rajasthan Royals,R Parag,1
+28,Feroz Shah Kotla,Rajasthan Royals,DA Miller,0
+28,Feroz Shah Kotla,Rajasthan Royals,Anuj Rawat,0
+28,Feroz Shah Kotla,Rajasthan Royals,R Tewatia,3
+28,Feroz Shah Kotla,Rajasthan Royals,CH Morris,4
+28,Feroz Shah Kotla,Rajasthan Royals,Kartik Tyagi,4
+28,Feroz Shah Kotla,Rajasthan Royals,C Sakariya,4
+28,Feroz Shah Kotla,Rajasthan Royals,Mustafizur Rahman,4
+28,Feroz Shah Kotla,Sunrisers Hyderabad,MK Pandey,0
+28,Feroz Shah Kotla,Sunrisers Hyderabad,JM Bairstow,0
+28,Feroz Shah Kotla,Sunrisers Hyderabad,KS Williamson,0
+28,Feroz Shah Kotla,Sunrisers Hyderabad,V Shankar,0
+28,Feroz Shah Kotla,Sunrisers Hyderabad,KM Jadhav,0
+28,Feroz Shah Kotla,Sunrisers Hyderabad,Mohammad Nabi,4
+28,Feroz Shah Kotla,Sunrisers Hyderabad,Abdul Samad,0
+28,Feroz Shah Kotla,Sunrisers Hyderabad,Rashid Khan,4
+28,Feroz Shah Kotla,Sunrisers Hyderabad,B Kumar,4
+28,Feroz Shah Kotla,Sunrisers Hyderabad,Sandeep Sharma,4
+28,Feroz Shah Kotla,Sunrisers Hyderabad,KK Ahmed,4
+29,"Sardar Patel Stadium, Motera",Punjab Kings,P Simran Singh,0
+29,"Sardar Patel Stadium, Motera",Punjab Kings,MA Agarwal,0
+29,"Sardar Patel Stadium, Motera",Punjab Kings,CH Gayle,1
+29,"Sardar Patel Stadium, Motera",Punjab Kings,DJ Malan,0
+29,"Sardar Patel Stadium, Motera",Punjab Kings,DJ Hooda,1
+29,"Sardar Patel Stadium, Motera",Punjab Kings,M Shahrukh Khan,0
+29,"Sardar Patel Stadium, Motera",Punjab Kings,CJ Jordan,3
+29,"Sardar Patel Stadium, Motera",Punjab Kings,Harpreet Brar,3
+29,"Sardar Patel Stadium, Motera",Punjab Kings,RP Meredith,4
+29,"Sardar Patel Stadium, Motera",Punjab Kings,Ravi Bishnoi,4
+29,"Sardar Patel Stadium, Motera",Punjab Kings,Mohammed Shami,4
+29,"Sardar Patel Stadium, Motera",Delhi Capitals,PP Shaw,0
+29,"Sardar Patel Stadium, Motera",Delhi Capitals,S Dhawan,0
+29,"Sardar Patel Stadium, Motera",Delhi Capitals,SPD Smith,0
+29,"Sardar Patel Stadium, Motera",Delhi Capitals,RR Pant,0
+29,"Sardar Patel Stadium, Motera",Delhi Capitals,SO Hetmyer,0
+29,"Sardar Patel Stadium, Motera",Delhi Capitals,MP Stoinis,2
+29,"Sardar Patel Stadium, Motera",Delhi Capitals,AR Patel,3
+29,"Sardar Patel Stadium, Motera",Delhi Capitals,Lalit Yadav,3
+29,"Sardar Patel Stadium, Motera",Delhi Capitals,K Rabada,4
+29,"Sardar Patel Stadium, Motera",Delhi Capitals,I Sharma,4
+29,"Sardar Patel Stadium, Motera",Delhi Capitals,Avesh Khan,4
+30,Sheikh Zayed Stadium,Royal Challengers Bangalore,V Kohli,0
+30,Sheikh Zayed Stadium,Royal Challengers Bangalore,D Padikkal,0
+30,Sheikh Zayed Stadium,Royal Challengers Bangalore,KS Bharat,0
+30,Sheikh Zayed Stadium,Royal Challengers Bangalore,GJ Maxwell,1
+30,Sheikh Zayed Stadium,Royal Challengers Bangalore,AB de Villiers,0
+30,Sheikh Zayed Stadium,Royal Challengers Bangalore,Sachin Baby,0
+30,Sheikh Zayed Stadium,Royal Challengers Bangalore,PWH de Silva,3
+30,Sheikh Zayed Stadium,Royal Challengers Bangalore,KA Jamieson,4
+30,Sheikh Zayed Stadium,Royal Challengers Bangalore,HV Patel,4
+30,Sheikh Zayed Stadium,Royal Challengers Bangalore,Mohammed Siraj,4
+30,Sheikh Zayed Stadium,Royal Challengers Bangalore,YS Chahal,4
+30,Sheikh Zayed Stadium,Kolkata Knight Riders,Shubman Gill,0
+30,Sheikh Zayed Stadium,Kolkata Knight Riders,VR Iyer,1
+30,Sheikh Zayed Stadium,Kolkata Knight Riders,AD Russell,3
+30,Sheikh Zayed Stadium,Kolkata Knight Riders,N Rana,0
+30,Sheikh Zayed Stadium,Kolkata Knight Riders,RA Tripathi,0
+30,Sheikh Zayed Stadium,Kolkata Knight Riders,EJG Morgan,0
+30,Sheikh Zayed Stadium,Kolkata Knight Riders,KD Karthik,0
+30,Sheikh Zayed Stadium,Kolkata Knight Riders,LH Ferguson,4
+30,Sheikh Zayed Stadium,Kolkata Knight Riders,SP Narine,4
+30,Sheikh Zayed Stadium,Kolkata Knight Riders,CV Varun,4
+30,Sheikh Zayed Stadium,Kolkata Knight Riders,M Prasidh Krishna,4
+31,Sheikh Zayed Stadium,Mumbai Indians,RG Sharma,0
+31,Sheikh Zayed Stadium,Mumbai Indians,Ishan Kishan,0
+31,Sheikh Zayed Stadium,Mumbai Indians,HH Pandya,1
+31,Sheikh Zayed Stadium,Mumbai Indians,KA Pollard,0
+31,Sheikh Zayed Stadium,Mumbai Indians,SA Yadav,0
+31,Sheikh Zayed Stadium,Mumbai Indians,JDS Neesham,2
+31,Sheikh Zayed Stadium,Mumbai Indians,KH Pandya,3
+31,Sheikh Zayed Stadium,Mumbai Indians,NM Coulter-Nile,3
+31,Sheikh Zayed Stadium,Mumbai Indians,PP Chawla,3
+31,Sheikh Zayed Stadium,Mumbai Indians,JJ Bumrah,4
+31,Sheikh Zayed Stadium,Mumbai Indians,TA Boult,4
+31,Sheikh Zayed Stadium,Sunrisers Hyderabad,JJ Roy,0
+31,Sheikh Zayed Stadium,Sunrisers Hyderabad,Abhishek Sharma,0
+31,Sheikh Zayed Stadium,Sunrisers Hyderabad,MK Pandey,0
+31,Sheikh Zayed Stadium,Sunrisers Hyderabad,Mohammad Nabi,4
+31,Sheikh Zayed Stadium,Sunrisers Hyderabad,Abdul Samad,0
+31,Sheikh Zayed Stadium,Sunrisers Hyderabad,PK Garg,0
+31,Sheikh Zayed Stadium,Sunrisers Hyderabad,JO Holder,4
+31,Sheikh Zayed Stadium,Sunrisers Hyderabad,Rashid Khan,4
+31,Sheikh Zayed Stadium,Sunrisers Hyderabad,WP Saha,0
+31,Sheikh Zayed Stadium,Sunrisers Hyderabad,S Kaul,4
+31,Sheikh Zayed Stadium,Sunrisers Hyderabad,Umran Malik,4
+32,Sheikh Zayed Stadium,Chennai Super Kings,RD Gaikwad,0
+32,Sheikh Zayed Stadium,Chennai Super Kings,F du Plessis,0
+32,Sheikh Zayed Stadium,Chennai Super Kings,SK Raina,0
+32,Sheikh Zayed Stadium,Chennai Super Kings,MM Ali,2
+32,Sheikh Zayed Stadium,Chennai Super Kings,AT Rayudu,0
+32,Sheikh Zayed Stadium,Chennai Super Kings,RA Jadeja,2
+32,Sheikh Zayed Stadium,Chennai Super Kings,MS Dhoni,0
+32,Sheikh Zayed Stadium,Chennai Super Kings,SM Curran,4
+32,Sheikh Zayed Stadium,Chennai Super Kings,SN Thakur,4
+32,Sheikh Zayed Stadium,Chennai Super Kings,JR Hazlewood,4
+32,Sheikh Zayed Stadium,Chennai Super Kings,KM Asif,4
+32,Sheikh Zayed Stadium,Rajasthan Royals,E Lewis,0
+32,Sheikh Zayed Stadium,Rajasthan Royals,YBK Jaiswal,0
+32,Sheikh Zayed Stadium,Rajasthan Royals,SV Samson,0
+32,Sheikh Zayed Stadium,Rajasthan Royals,S Dube,1
+32,Sheikh Zayed Stadium,Rajasthan Royals,GD Phillips,0
+32,Sheikh Zayed Stadium,Rajasthan Royals,DA Miller,0
+32,Sheikh Zayed Stadium,Rajasthan Royals,R Tewatia,3
+32,Sheikh Zayed Stadium,Rajasthan Royals,Akash Singh,4
+32,Sheikh Zayed Stadium,Rajasthan Royals,M Markande,4
+32,Sheikh Zayed Stadium,Rajasthan Royals,C Sakariya,4
+32,Sheikh Zayed Stadium,Rajasthan Royals,Mustafizur Rahman,4
+33,Sharjah Cricket Stadium,Royal Challengers Bangalore,V Kohli,0
+33,Sharjah Cricket Stadium,Royal Challengers Bangalore,D Padikkal,0
+33,Sharjah Cricket Stadium,Royal Challengers Bangalore,DT Christian,2
+33,Sharjah Cricket Stadium,Royal Challengers Bangalore,GJ Maxwell,1
+33,Sharjah Cricket Stadium,Royal Challengers Bangalore,AB de Villiers,0
+33,Sharjah Cricket Stadium,Royal Challengers Bangalore,Shahbaz Ahmed,3
+33,Sharjah Cricket Stadium,Royal Challengers Bangalore,KS Bharat,0
+33,Sharjah Cricket Stadium,Royal Challengers Bangalore,GHS Garton,3
+33,Sharjah Cricket Stadium,Royal Challengers Bangalore,HV Patel,3
+33,Sharjah Cricket Stadium,Royal Challengers Bangalore,Mohammed Siraj,4
+33,Sharjah Cricket Stadium,Royal Challengers Bangalore,YS Chahal,4
+33,Sharjah Cricket Stadium,Punjab Kings,KL Rahul,0
+33,Sharjah Cricket Stadium,Punjab Kings,MA Agarwal,0
+33,Sharjah Cricket Stadium,Punjab Kings,N Pooran,0
+33,Sharjah Cricket Stadium,Punjab Kings,AK Markram,0
+33,Sharjah Cricket Stadium,Punjab Kings,SN Khan,0
+33,Sharjah Cricket Stadium,Punjab Kings,M Shahrukh Khan,0
+33,Sharjah Cricket Stadium,Punjab Kings,MC Henriques,4
+33,Sharjah Cricket Stadium,Punjab Kings,Harpreet Brar,4
+33,Sharjah Cricket Stadium,Punjab Kings,Ravi Bishnoi,4
+33,Sharjah Cricket Stadium,Punjab Kings,Mohammed Shami,4
+33,Sharjah Cricket Stadium,Punjab Kings,Arshdeep Singh,4
+34,Sharjah Cricket Stadium,Sunrisers Hyderabad,JJ Roy,0
+34,Sharjah Cricket Stadium,Sunrisers Hyderabad,WP Saha,0
+34,Sharjah Cricket Stadium,Sunrisers Hyderabad,KS Williamson,0
+34,Sharjah Cricket Stadium,Sunrisers Hyderabad,PK Garg,0
+34,Sharjah Cricket Stadium,Sunrisers Hyderabad,Abhishek Sharma,0
+34,Sharjah Cricket Stadium,Sunrisers Hyderabad,Abdul Samad,0
+34,Sharjah Cricket Stadium,Sunrisers Hyderabad,JO Holder,4
+34,Sharjah Cricket Stadium,Sunrisers Hyderabad,Rashid Khan,4
+34,Sharjah Cricket Stadium,Sunrisers Hyderabad,B Kumar,4
+34,Sharjah Cricket Stadium,Sunrisers Hyderabad,Sandeep Sharma,4
+34,Sharjah Cricket Stadium,Sunrisers Hyderabad,S Kaul,4
+34,Sharjah Cricket Stadium,Chennai Super Kings,RD Gaikwad,0
+34,Sharjah Cricket Stadium,Chennai Super Kings,F du Plessis,0
+34,Sharjah Cricket Stadium,Chennai Super Kings,MM Ali,2
+34,Sharjah Cricket Stadium,Chennai Super Kings,SK Raina,1
+34,Sharjah Cricket Stadium,Chennai Super Kings,AT Rayudu,0
+34,Sharjah Cricket Stadium,Chennai Super Kings,MS Dhoni,0
+34,Sharjah Cricket Stadium,Chennai Super Kings,RA Jadeja,2
+34,Sharjah Cricket Stadium,Chennai Super Kings,DJ Bravo,3
+34,Sharjah Cricket Stadium,Chennai Super Kings,SN Thakur,4
+34,Sharjah Cricket Stadium,Chennai Super Kings,DL Chahar,4
+34,Sharjah Cricket Stadium,Chennai Super Kings,JR Hazlewood,4
+35,Sharjah Cricket Stadium,Delhi Capitals,SPD Smith,0
+35,Sharjah Cricket Stadium,Delhi Capitals,S Dhawan,0
+35,Sharjah Cricket Stadium,Delhi Capitals,SS Iyer,0
+35,Sharjah Cricket Stadium,Delhi Capitals,RR Pant,0
+35,Sharjah Cricket Stadium,Delhi Capitals,SO Hetmyer,0
+35,Sharjah Cricket Stadium,Delhi Capitals,Lalit Yadav,2
+35,Sharjah Cricket Stadium,Delhi Capitals,AR Patel,3
+35,Sharjah Cricket Stadium,Delhi Capitals,R Ashwin,3
+35,Sharjah Cricket Stadium,Delhi Capitals,K Rabada,4
+35,Sharjah Cricket Stadium,Delhi Capitals,Avesh Khan,4
+35,Sharjah Cricket Stadium,Delhi Capitals,A Nortje,4
+35,Sharjah Cricket Stadium,Kolkata Knight Riders,Shubman Gill,0
+35,Sharjah Cricket Stadium,Kolkata Knight Riders,VR Iyer,0
+35,Sharjah Cricket Stadium,Kolkata Knight Riders,RA Tripathi,0
+35,Sharjah Cricket Stadium,Kolkata Knight Riders,N Rana,0
+35,Sharjah Cricket Stadium,Kolkata Knight Riders,EJG Morgan,0
+35,Sharjah Cricket Stadium,Kolkata Knight Riders,KD Karthik,0
+35,Sharjah Cricket Stadium,Kolkata Knight Riders,SP Narine,4
+35,Sharjah Cricket Stadium,Kolkata Knight Riders,TG Southee,4
+35,Sharjah Cricket Stadium,Kolkata Knight Riders,LH Ferguson,4
+35,Sharjah Cricket Stadium,Kolkata Knight Riders,S Sandeep Warrier,4
+35,Sharjah Cricket Stadium,Kolkata Knight Riders,CV Varun,4
+36,Sharjah Cricket Stadium,Rajasthan Royals,E Lewis,0
+36,Sharjah Cricket Stadium,Rajasthan Royals,YBK Jaiswal,0
+36,Sharjah Cricket Stadium,Rajasthan Royals,SV Samson,0
+36,Sharjah Cricket Stadium,Rajasthan Royals,S Dube,1
+36,Sharjah Cricket Stadium,Rajasthan Royals,GD Phillips,0
+36,Sharjah Cricket Stadium,Rajasthan Royals,DA Miller,0
+36,Sharjah Cricket Stadium,Rajasthan Royals,R Tewatia,3
+36,Sharjah Cricket Stadium,Rajasthan Royals,S Gopal,4
+36,Sharjah Cricket Stadium,Rajasthan Royals,C Sakariya,4
+36,Sharjah Cricket Stadium,Rajasthan Royals,K Yadav,4
+36,Sharjah Cricket Stadium,Rajasthan Royals,Mustafizur Rahman,4
+36,Sharjah Cricket Stadium,Mumbai Indians,RG Sharma,0
+36,Sharjah Cricket Stadium,Mumbai Indians,Ishan Kishan,0
+36,Sharjah Cricket Stadium,Mumbai Indians,SA Yadav,0
+36,Sharjah Cricket Stadium,Mumbai Indians,HH Pandya,2
+36,Sharjah Cricket Stadium,Mumbai Indians,SS Tiwary,0
+36,Sharjah Cricket Stadium,Mumbai Indians,KA Pollard,1
+36,Sharjah Cricket Stadium,Mumbai Indians,JDS Neesham,3
+36,Sharjah Cricket Stadium,Mumbai Indians,NM Coulter-Nile,3
+36,Sharjah Cricket Stadium,Mumbai Indians,J Yadav,3
+36,Sharjah Cricket Stadium,Mumbai Indians,JJ Bumrah,4
+36,Sharjah Cricket Stadium,Mumbai Indians,TA Boult,4
+37,Dubai International Cricket Stadium,Chennai Super Kings,RD Gaikwad,0
+37,Dubai International Cricket Stadium,Chennai Super Kings,F du Plessis,0
+37,Dubai International Cricket Stadium,Chennai Super Kings,MM Ali,2
+37,Dubai International Cricket Stadium,Chennai Super Kings,RV Uthappa,0
+37,Dubai International Cricket Stadium,Chennai Super Kings,AT Rayudu,0
+37,Dubai International Cricket Stadium,Chennai Super Kings,MS Dhoni,0
+37,Dubai International Cricket Stadium,Chennai Super Kings,RA Jadeja,2
+37,Dubai International Cricket Stadium,Chennai Super Kings,DJ Bravo,4
+37,Dubai International Cricket Stadium,Chennai Super Kings,DL Chahar,4
+37,Dubai International Cricket Stadium,Chennai Super Kings,SN Thakur,4
+37,Dubai International Cricket Stadium,Chennai Super Kings,JR Hazlewood,4
+37,Dubai International Cricket Stadium,Punjab Kings,KL Rahul,0
+37,Dubai International Cricket Stadium,Punjab Kings,MA Agarwal,0
+37,Dubai International Cricket Stadium,Punjab Kings,SN Khan,0
+37,Dubai International Cricket Stadium,Punjab Kings,M Shahrukh Khan,0
+37,Dubai International Cricket Stadium,Punjab Kings,AK Markram,0
+37,Dubai International Cricket Stadium,Punjab Kings,MC Henriques,2
+37,Dubai International Cricket Stadium,Punjab Kings,CJ Jordan,3
+37,Dubai International Cricket Stadium,Punjab Kings,Harpreet Brar,3
+37,Dubai International Cricket Stadium,Punjab Kings,Ravi Bishnoi,4
+37,Dubai International Cricket Stadium,Punjab Kings,Mohammed Shami,4
+37,Dubai International Cricket Stadium,Punjab Kings,Arshdeep Singh,4
+38,Sheikh Zayed Stadium,Sunrisers Hyderabad,JJ Roy,0
+38,Sheikh Zayed Stadium,Sunrisers Hyderabad,Abhishek Sharma,0
+38,Sheikh Zayed Stadium,Sunrisers Hyderabad,KS Williamson,0
+38,Sheikh Zayed Stadium,Sunrisers Hyderabad,PK Garg,0
+38,Sheikh Zayed Stadium,Sunrisers Hyderabad,Abdul Samad,0
+38,Sheikh Zayed Stadium,Sunrisers Hyderabad,WP Saha,0
+38,Sheikh Zayed Stadium,Sunrisers Hyderabad,JO Holder,4
+38,Sheikh Zayed Stadium,Sunrisers Hyderabad,Rashid Khan,4
+38,Sheikh Zayed Stadium,Sunrisers Hyderabad,B Kumar,4
+38,Sheikh Zayed Stadium,Sunrisers Hyderabad,S Kaul,4
+38,Sheikh Zayed Stadium,Sunrisers Hyderabad,Umran Malik,4
+38,Sheikh Zayed Stadium,Royal Challengers Bangalore,V Kohli,0
+38,Sheikh Zayed Stadium,Royal Challengers Bangalore,D Padikkal,0
+38,Sheikh Zayed Stadium,Royal Challengers Bangalore,DT Christian,2
+38,Sheikh Zayed Stadium,Royal Challengers Bangalore,KS Bharat,0
+38,Sheikh Zayed Stadium,Royal Challengers Bangalore,GJ Maxwell,1
+38,Sheikh Zayed Stadium,Royal Challengers Bangalore,AB de Villiers,0
+38,Sheikh Zayed Stadium,Royal Challengers Bangalore,Shahbaz Ahmed,3
+38,Sheikh Zayed Stadium,Royal Challengers Bangalore,GHS Garton,3
+38,Sheikh Zayed Stadium,Royal Challengers Bangalore,HV Patel,3
+38,Sheikh Zayed Stadium,Royal Challengers Bangalore,Mohammed Siraj,4
+38,Sheikh Zayed Stadium,Royal Challengers Bangalore,YS Chahal,4
+39,Sheikh Zayed Stadium,Mumbai Indians,RG Sharma,0
+39,Sheikh Zayed Stadium,Mumbai Indians,Q de Kock,0
+39,Sheikh Zayed Stadium,Mumbai Indians,SA Yadav,0
+39,Sheikh Zayed Stadium,Mumbai Indians,Ishan Kishan,0
+39,Sheikh Zayed Stadium,Mumbai Indians,KA Pollard,1
+39,Sheikh Zayed Stadium,Mumbai Indians,KH Pandya,3
+39,Sheikh Zayed Stadium,Mumbai Indians,SS Tiwary,0
+39,Sheikh Zayed Stadium,Mumbai Indians,AF Milne,4
+39,Sheikh Zayed Stadium,Mumbai Indians,RD Chahar,4
+39,Sheikh Zayed Stadium,Mumbai Indians,JJ Bumrah,4
+39,Sheikh Zayed Stadium,Mumbai Indians,TA Boult,4
+39,Sheikh Zayed Stadium,Kolkata Knight Riders,Shubman Gill,0
+39,Sheikh Zayed Stadium,Kolkata Knight Riders,VR Iyer,0
+39,Sheikh Zayed Stadium,Kolkata Knight Riders,RA Tripathi,0
+39,Sheikh Zayed Stadium,Kolkata Knight Riders,EJG Morgan,0
+39,Sheikh Zayed Stadium,Kolkata Knight Riders,N Rana,0
+39,Sheikh Zayed Stadium,Kolkata Knight Riders,AD Russell,4
+39,Sheikh Zayed Stadium,Kolkata Knight Riders,KD Karthik,0
+39,Sheikh Zayed Stadium,Kolkata Knight Riders,SP Narine,4
+39,Sheikh Zayed Stadium,Kolkata Knight Riders,LH Ferguson,4
+39,Sheikh Zayed Stadium,Kolkata Knight Riders,M Prasidh Krishna,4
+39,Sheikh Zayed Stadium,Kolkata Knight Riders,CV Varun,4
+40,Sheikh Zayed Stadium,Delhi Capitals,PP Shaw,0
+40,Sheikh Zayed Stadium,Delhi Capitals,S Dhawan,0
+40,Sheikh Zayed Stadium,Delhi Capitals,SS Iyer,0
+40,Sheikh Zayed Stadium,Delhi Capitals,RR Pant,0
+40,Sheikh Zayed Stadium,Delhi Capitals,SO Hetmyer,0
+40,Sheikh Zayed Stadium,Delhi Capitals,Lalit Yadav,1
+40,Sheikh Zayed Stadium,Delhi Capitals,AR Patel,3
+40,Sheikh Zayed Stadium,Delhi Capitals,R Ashwin,4
+40,Sheikh Zayed Stadium,Delhi Capitals,K Rabada,4
+40,Sheikh Zayed Stadium,Delhi Capitals,A Nortje,4
+40,Sheikh Zayed Stadium,Delhi Capitals,Avesh Khan,4
+40,Sheikh Zayed Stadium,Rajasthan Royals,LS Livingstone,0
+40,Sheikh Zayed Stadium,Rajasthan Royals,YBK Jaiswal,0
+40,Sheikh Zayed Stadium,Rajasthan Royals,SV Samson,0
+40,Sheikh Zayed Stadium,Rajasthan Royals,DA Miller,0
+40,Sheikh Zayed Stadium,Rajasthan Royals,MK Lomror,0
+40,Sheikh Zayed Stadium,Rajasthan Royals,R Parag,1
+40,Sheikh Zayed Stadium,Rajasthan Royals,R Tewatia,3
+40,Sheikh Zayed Stadium,Rajasthan Royals,T Shamsi,4
+40,Sheikh Zayed Stadium,Rajasthan Royals,Kartik Tyagi,4
+40,Sheikh Zayed Stadium,Rajasthan Royals,C Sakariya,4
+40,Sheikh Zayed Stadium,Rajasthan Royals,Mustafizur Rahman,4
+41,Sheikh Zayed Stadium,Kolkata Knight Riders,Shubman Gill,0
+41,Sheikh Zayed Stadium,Kolkata Knight Riders,VR Iyer,1
+41,Sheikh Zayed Stadium,Kolkata Knight Riders,RA Tripathi,0
+41,Sheikh Zayed Stadium,Kolkata Knight Riders,EJG Morgan,0
+41,Sheikh Zayed Stadium,Kolkata Knight Riders,N Rana,0
+41,Sheikh Zayed Stadium,Kolkata Knight Riders,AD Russell,3
+41,Sheikh Zayed Stadium,Kolkata Knight Riders,KD Karthik,0
+41,Sheikh Zayed Stadium,Kolkata Knight Riders,SP Narine,4
+41,Sheikh Zayed Stadium,Kolkata Knight Riders,LH Ferguson,4
+41,Sheikh Zayed Stadium,Kolkata Knight Riders,M Prasidh Krishna,4
+41,Sheikh Zayed Stadium,Kolkata Knight Riders,CV Varun,4
+41,Sheikh Zayed Stadium,Chennai Super Kings,RD Gaikwad,0
+41,Sheikh Zayed Stadium,Chennai Super Kings,F du Plessis,0
+41,Sheikh Zayed Stadium,Chennai Super Kings,MM Ali,2
+41,Sheikh Zayed Stadium,Chennai Super Kings,AT Rayudu,0
+41,Sheikh Zayed Stadium,Chennai Super Kings,SK Raina,1
+41,Sheikh Zayed Stadium,Chennai Super Kings,MS Dhoni,0
+41,Sheikh Zayed Stadium,Chennai Super Kings,RA Jadeja,2
+41,Sheikh Zayed Stadium,Chennai Super Kings,SM Curran,4
+41,Sheikh Zayed Stadium,Chennai Super Kings,SN Thakur,3
+41,Sheikh Zayed Stadium,Chennai Super Kings,DL Chahar,4
+41,Sheikh Zayed Stadium,Chennai Super Kings,JR Hazlewood,4
+42,Sheikh Zayed Stadium,Punjab Kings,KL Rahul,0
+42,Sheikh Zayed Stadium,Punjab Kings,Mandeep Singh,0
+42,Sheikh Zayed Stadium,Punjab Kings,CH Gayle,1
+42,Sheikh Zayed Stadium,Punjab Kings,AK Markram,0
+42,Sheikh Zayed Stadium,Punjab Kings,N Pooran,0
+42,Sheikh Zayed Stadium,Punjab Kings,DJ Hooda,1
+42,Sheikh Zayed Stadium,Punjab Kings,Harpreet Brar,3
+42,Sheikh Zayed Stadium,Punjab Kings,NT Ellis,3
+42,Sheikh Zayed Stadium,Punjab Kings,Ravi Bishnoi,4
+42,Sheikh Zayed Stadium,Punjab Kings,Mohammed Shami,4
+42,Sheikh Zayed Stadium,Punjab Kings,Arshdeep Singh,4
+42,Sheikh Zayed Stadium,Mumbai Indians,RG Sharma,0
+42,Sheikh Zayed Stadium,Mumbai Indians,Q de Kock,0
+42,Sheikh Zayed Stadium,Mumbai Indians,SA Yadav,0
+42,Sheikh Zayed Stadium,Mumbai Indians,SS Tiwary,0
+42,Sheikh Zayed Stadium,Mumbai Indians,HH Pandya,1
+42,Sheikh Zayed Stadium,Mumbai Indians,KA Pollard,1
+42,Sheikh Zayed Stadium,Mumbai Indians,KH Pandya,3
+42,Sheikh Zayed Stadium,Mumbai Indians,NM Coulter-Nile,4
+42,Sheikh Zayed Stadium,Mumbai Indians,RD Chahar,3
+42,Sheikh Zayed Stadium,Mumbai Indians,TA Boult,4
+42,Sheikh Zayed Stadium,Mumbai Indians,JJ Bumrah,4
+43,Dubai International Cricket Stadium,Rajasthan Royals,E Lewis,0
+43,Dubai International Cricket Stadium,Rajasthan Royals,YBK Jaiswal,0
+43,Dubai International Cricket Stadium,Rajasthan Royals,SV Samson,0
+43,Dubai International Cricket Stadium,Rajasthan Royals,LS Livingstone,0
+43,Dubai International Cricket Stadium,Rajasthan Royals,MK Lomror,0
+43,Dubai International Cricket Stadium,Rajasthan Royals,R Parag,1
+43,Dubai International Cricket Stadium,Rajasthan Royals,R Tewatia,3
+43,Dubai International Cricket Stadium,Rajasthan Royals,CH Morris,4
+43,Dubai International Cricket Stadium,Rajasthan Royals,JD Unadkat,4
+43,Dubai International Cricket Stadium,Rajasthan Royals,C Sakariya,4
+43,Dubai International Cricket Stadium,Rajasthan Royals,Mustafizur Rahman,4
+43,Dubai International Cricket Stadium,Sunrisers Hyderabad,JJ Roy,0
+43,Dubai International Cricket Stadium,Sunrisers Hyderabad,WP Saha,0
+43,Dubai International Cricket Stadium,Sunrisers Hyderabad,KS Williamson,0
+43,Dubai International Cricket Stadium,Sunrisers Hyderabad,PK Garg,0
+43,Dubai International Cricket Stadium,Sunrisers Hyderabad,Abhishek Sharma,0
+43,Dubai International Cricket Stadium,Sunrisers Hyderabad,JO Holder,4
+43,Dubai International Cricket Stadium,Sunrisers Hyderabad,Abdul Samad,0
+43,Dubai International Cricket Stadium,Sunrisers Hyderabad,Rashid Khan,4
+43,Dubai International Cricket Stadium,Sunrisers Hyderabad,B Kumar,4
+43,Dubai International Cricket Stadium,Sunrisers Hyderabad,Sandeep Sharma,4
+43,Dubai International Cricket Stadium,Sunrisers Hyderabad,S Kaul,4
+44,Dubai International Cricket Stadium,Delhi Capitals,PP Shaw,0
+44,Dubai International Cricket Stadium,Delhi Capitals,S Dhawan,0
+44,Dubai International Cricket Stadium,Delhi Capitals,RR Pant,0
+44,Dubai International Cricket Stadium,Delhi Capitals,SS Iyer,0
+44,Dubai International Cricket Stadium,Delhi Capitals,SO Hetmyer,0
+44,Dubai International Cricket Stadium,Delhi Capitals,RV Patel,1
+44,Dubai International Cricket Stadium,Delhi Capitals,AR Patel,3
+44,Dubai International Cricket Stadium,Delhi Capitals,R Ashwin,4
+44,Dubai International Cricket Stadium,Delhi Capitals,K Rabada,4
+44,Dubai International Cricket Stadium,Delhi Capitals,Avesh Khan,4
+44,Dubai International Cricket Stadium,Delhi Capitals,A Nortje,4
+44,Dubai International Cricket Stadium,Royal Challengers Bangalore,V Kohli,0
+44,Dubai International Cricket Stadium,Royal Challengers Bangalore,D Padikkal,0
+44,Dubai International Cricket Stadium,Royal Challengers Bangalore,KS Bharat,0
+44,Dubai International Cricket Stadium,Royal Challengers Bangalore,AB de Villiers,0
+44,Dubai International Cricket Stadium,Royal Challengers Bangalore,GJ Maxwell,0
+44,Dubai International Cricket Stadium,Royal Challengers Bangalore,DT Christian,3
+44,Dubai International Cricket Stadium,Royal Challengers Bangalore,Shahbaz Ahmed,3
+44,Dubai International Cricket Stadium,Royal Challengers Bangalore,GHS Garton,3
+44,Dubai International Cricket Stadium,Royal Challengers Bangalore,HV Patel,3
+44,Dubai International Cricket Stadium,Royal Challengers Bangalore,Mohammed Siraj,4
+44,Dubai International Cricket Stadium,Royal Challengers Bangalore,YS Chahal,4
+45,Dubai International Cricket Stadium,Kolkata Knight Riders,VR Iyer,4
+45,Dubai International Cricket Stadium,Kolkata Knight Riders,Shubman Gill,0
+45,Dubai International Cricket Stadium,Kolkata Knight Riders,RA Tripathi,0
+45,Dubai International Cricket Stadium,Kolkata Knight Riders,N Rana,0
+45,Dubai International Cricket Stadium,Kolkata Knight Riders,EJG Morgan,0
+45,Dubai International Cricket Stadium,Kolkata Knight Riders,KD Karthik,0
+45,Dubai International Cricket Stadium,Kolkata Knight Riders,TL Seifert,0
+45,Dubai International Cricket Stadium,Kolkata Knight Riders,SP Narine,4
+45,Dubai International Cricket Stadium,Kolkata Knight Riders,TG Southee,4
+45,Dubai International Cricket Stadium,Kolkata Knight Riders,CV Varun,4
+45,Dubai International Cricket Stadium,Kolkata Knight Riders,Shivam Mavi,4
+45,Dubai International Cricket Stadium,Punjab Kings,KL Rahul,0
+45,Dubai International Cricket Stadium,Punjab Kings,MA Agarwal,0
+45,Dubai International Cricket Stadium,Punjab Kings,N Pooran,0
+45,Dubai International Cricket Stadium,Punjab Kings,AK Markram,0
+45,Dubai International Cricket Stadium,Punjab Kings,DJ Hooda,1
+45,Dubai International Cricket Stadium,Punjab Kings,M Shahrukh Khan,0
+45,Dubai International Cricket Stadium,Punjab Kings,FA Allen,3
+45,Dubai International Cricket Stadium,Punjab Kings,NT Ellis,4
+45,Dubai International Cricket Stadium,Punjab Kings,Ravi Bishnoi,4
+45,Dubai International Cricket Stadium,Punjab Kings,Mohammed Shami,4
+45,Dubai International Cricket Stadium,Punjab Kings,Arshdeep Singh,4
+46,Dubai International Cricket Stadium,Rajasthan Royals,E Lewis,0
+46,Dubai International Cricket Stadium,Rajasthan Royals,YBK Jaiswal,0
+46,Dubai International Cricket Stadium,Rajasthan Royals,SV Samson,0
+46,Dubai International Cricket Stadium,Rajasthan Royals,MK Lomror,0
+46,Dubai International Cricket Stadium,Rajasthan Royals,LS Livingstone,0
+46,Dubai International Cricket Stadium,Rajasthan Royals,R Tewatia,3
+46,Dubai International Cricket Stadium,Rajasthan Royals,R Parag,1
+46,Dubai International Cricket Stadium,Rajasthan Royals,CH Morris,4
+46,Dubai International Cricket Stadium,Rajasthan Royals,C Sakariya,4
+46,Dubai International Cricket Stadium,Rajasthan Royals,Kartik Tyagi,4
+46,Dubai International Cricket Stadium,Rajasthan Royals,Mustafizur Rahman,4
+46,Dubai International Cricket Stadium,Royal Challengers Bangalore,V Kohli,0
+46,Dubai International Cricket Stadium,Royal Challengers Bangalore,D Padikkal,0
+46,Dubai International Cricket Stadium,Royal Challengers Bangalore,KS Bharat,0
+46,Dubai International Cricket Stadium,Royal Challengers Bangalore,GJ Maxwell,1
+46,Dubai International Cricket Stadium,Royal Challengers Bangalore,AB de Villiers,0
+46,Dubai International Cricket Stadium,Royal Challengers Bangalore,DT Christian,3
+46,Dubai International Cricket Stadium,Royal Challengers Bangalore,Shahbaz Ahmed,3
+46,Dubai International Cricket Stadium,Royal Challengers Bangalore,GHS Garton,2
+46,Dubai International Cricket Stadium,Royal Challengers Bangalore,HV Patel,3
+46,Dubai International Cricket Stadium,Royal Challengers Bangalore,Mohammed Siraj,4
+46,Dubai International Cricket Stadium,Royal Challengers Bangalore,YS Chahal,4
+47,Dubai International Cricket Stadium,Chennai Super Kings,RD Gaikwad,0
+47,Dubai International Cricket Stadium,Chennai Super Kings,F du Plessis,0
+47,Dubai International Cricket Stadium,Chennai Super Kings,MM Ali,2
+47,Dubai International Cricket Stadium,Chennai Super Kings,AT Rayudu,0
+47,Dubai International Cricket Stadium,Chennai Super Kings,SK Raina,1
+47,Dubai International Cricket Stadium,Chennai Super Kings,MS Dhoni,0
+47,Dubai International Cricket Stadium,Chennai Super Kings,RA Jadeja,2
+47,Dubai International Cricket Stadium,Chennai Super Kings,DJ Bravo,3
+47,Dubai International Cricket Stadium,Chennai Super Kings,SN Thakur,4
+47,Dubai International Cricket Stadium,Chennai Super Kings,DL Chahar,4
+47,Dubai International Cricket Stadium,Chennai Super Kings,JR Hazlewood,4
+47,Dubai International Cricket Stadium,Mumbai Indians,Q de Kock,0
+47,Dubai International Cricket Stadium,Mumbai Indians,Anmolpreet Singh,0
+47,Dubai International Cricket Stadium,Mumbai Indians,SA Yadav,0
+47,Dubai International Cricket Stadium,Mumbai Indians,Ishan Kishan,0
+47,Dubai International Cricket Stadium,Mumbai Indians,SS Tiwary,0
+47,Dubai International Cricket Stadium,Mumbai Indians,KA Pollard,1
+47,Dubai International Cricket Stadium,Mumbai Indians,KH Pandya,3
+47,Dubai International Cricket Stadium,Mumbai Indians,AF Milne,4
+47,Dubai International Cricket Stadium,Mumbai Indians,RD Chahar,4
+47,Dubai International Cricket Stadium,Mumbai Indians,JJ Bumrah,4
+47,Dubai International Cricket Stadium,Mumbai Indians,TA Boult,4
+48,Dubai International Cricket Stadium,Sunrisers Hyderabad,DA Warner,0
+48,Dubai International Cricket Stadium,Sunrisers Hyderabad,WP Saha,0
+48,Dubai International Cricket Stadium,Sunrisers Hyderabad,KS Williamson,0
+48,Dubai International Cricket Stadium,Sunrisers Hyderabad,MK Pandey,0
+48,Dubai International Cricket Stadium,Sunrisers Hyderabad,KM Jadhav,0
+48,Dubai International Cricket Stadium,Sunrisers Hyderabad,Abdul Samad,0
+48,Dubai International Cricket Stadium,Sunrisers Hyderabad,JO Holder,4
+48,Dubai International Cricket Stadium,Sunrisers Hyderabad,Rashid Khan,4
+48,Dubai International Cricket Stadium,Sunrisers Hyderabad,B Kumar,4
+48,Dubai International Cricket Stadium,Sunrisers Hyderabad,Sandeep Sharma,4
+48,Dubai International Cricket Stadium,Sunrisers Hyderabad,KK Ahmed,4
+48,Dubai International Cricket Stadium,Delhi Capitals,PP Shaw,0
+48,Dubai International Cricket Stadium,Delhi Capitals,S Dhawan,0
+48,Dubai International Cricket Stadium,Delhi Capitals,SS Iyer,0
+48,Dubai International Cricket Stadium,Delhi Capitals,RR Pant,0
+48,Dubai International Cricket Stadium,Delhi Capitals,MP Stoinis,1
+48,Dubai International Cricket Stadium,Delhi Capitals,SO Hetmyer,0
+48,Dubai International Cricket Stadium,Delhi Capitals,AR Patel,3
+48,Dubai International Cricket Stadium,Delhi Capitals,R Ashwin,4
+48,Dubai International Cricket Stadium,Delhi Capitals,K Rabada,4
+48,Dubai International Cricket Stadium,Delhi Capitals,A Nortje,4
+48,Dubai International Cricket Stadium,Delhi Capitals,Avesh Khan,4
+49,Sharjah Cricket Stadium,Kolkata Knight Riders,Shubman Gill,0
+49,Sharjah Cricket Stadium,Kolkata Knight Riders,VR Iyer,0
+49,Sharjah Cricket Stadium,Kolkata Knight Riders,N Rana,0
+49,Sharjah Cricket Stadium,Kolkata Knight Riders,RA Tripathi,0
+49,Sharjah Cricket Stadium,Kolkata Knight Riders,KD Karthik,0
+49,Sharjah Cricket Stadium,Kolkata Knight Riders,EJG Morgan,0
+49,Sharjah Cricket Stadium,Kolkata Knight Riders,Shakib Al Hasan,4
+49,Sharjah Cricket Stadium,Kolkata Knight Riders,SP Narine,4
+49,Sharjah Cricket Stadium,Kolkata Knight Riders,LH Ferguson,4
+49,Sharjah Cricket Stadium,Kolkata Knight Riders,CV Varun,4
+49,Sharjah Cricket Stadium,Kolkata Knight Riders,Shivam Mavi,4
+49,Sharjah Cricket Stadium,Rajasthan Royals,YBK Jaiswal,0
+49,Sharjah Cricket Stadium,Rajasthan Royals,LS Livingstone,0
+49,Sharjah Cricket Stadium,Rajasthan Royals,SV Samson,0
+49,Sharjah Cricket Stadium,Rajasthan Royals,S Dube,1
+49,Sharjah Cricket Stadium,Rajasthan Royals,Anuj Rawat,0
+49,Sharjah Cricket Stadium,Rajasthan Royals,GD Phillips,0
+49,Sharjah Cricket Stadium,Rajasthan Royals,R Tewatia,3
+49,Sharjah Cricket Stadium,Rajasthan Royals,CH Morris,4
+49,Sharjah Cricket Stadium,Rajasthan Royals,JD Unadkat,4
+49,Sharjah Cricket Stadium,Rajasthan Royals,C Sakariya,4
+49,Sharjah Cricket Stadium,Rajasthan Royals,Mustafizur Rahman,4
+50,Sharjah Cricket Stadium,Punjab Kings,KL Rahul,0
+50,Sharjah Cricket Stadium,Punjab Kings,MA Agarwal,0
+50,Sharjah Cricket Stadium,Punjab Kings,CH Gayle,1
+50,Sharjah Cricket Stadium,Punjab Kings,AK Markram,0
+50,Sharjah Cricket Stadium,Punjab Kings,N Pooran,0
+50,Sharjah Cricket Stadium,Punjab Kings,DJ Hooda,1
+50,Sharjah Cricket Stadium,Punjab Kings,Harpreet Brar,3
+50,Sharjah Cricket Stadium,Punjab Kings,NT Ellis,3
+50,Sharjah Cricket Stadium,Punjab Kings,Mohammed Shami,4
+50,Sharjah Cricket Stadium,Punjab Kings,Ravi Bishnoi,4
+50,Sharjah Cricket Stadium,Punjab Kings,Arshdeep Singh,4
+50,Sharjah Cricket Stadium,Sunrisers Hyderabad,DA Warner,0
+50,Sharjah Cricket Stadium,Sunrisers Hyderabad,WP Saha,0
+50,Sharjah Cricket Stadium,Sunrisers Hyderabad,KS Williamson,0
+50,Sharjah Cricket Stadium,Sunrisers Hyderabad,MK Pandey,0
+50,Sharjah Cricket Stadium,Sunrisers Hyderabad,KM Jadhav,0
+50,Sharjah Cricket Stadium,Sunrisers Hyderabad,Abdul Samad,0
+50,Sharjah Cricket Stadium,Sunrisers Hyderabad,JO Holder,4
+50,Sharjah Cricket Stadium,Sunrisers Hyderabad,Rashid Khan,4
+50,Sharjah Cricket Stadium,Sunrisers Hyderabad,B Kumar,4
+50,Sharjah Cricket Stadium,Sunrisers Hyderabad,Sandeep Sharma,4
+50,Sharjah Cricket Stadium,Sunrisers Hyderabad,KK Ahmed,4
+51,Dubai International Cricket Stadium,Royal Challengers Bangalore,V Kohli,0
+51,Dubai International Cricket Stadium,Royal Challengers Bangalore,D Padikkal,0
+51,Dubai International Cricket Stadium,Royal Challengers Bangalore,KS Bharat,0
+51,Dubai International Cricket Stadium,Royal Challengers Bangalore,GJ Maxwell,0
+51,Dubai International Cricket Stadium,Royal Challengers Bangalore,AB de Villiers,0
+51,Dubai International Cricket Stadium,Royal Challengers Bangalore,DT Christian,3
+51,Dubai International Cricket Stadium,Royal Challengers Bangalore,Shahbaz Ahmed,3
+51,Dubai International Cricket Stadium,Royal Challengers Bangalore,KA Jamieson,3
+51,Dubai International Cricket Stadium,Royal Challengers Bangalore,HV Patel,3
+51,Dubai International Cricket Stadium,Royal Challengers Bangalore,Mohammed Siraj,4
+51,Dubai International Cricket Stadium,Royal Challengers Bangalore,YS Chahal,4
+51,Dubai International Cricket Stadium,Mumbai Indians,RG Sharma,0
+51,Dubai International Cricket Stadium,Mumbai Indians,Q de Kock,0
+51,Dubai International Cricket Stadium,Mumbai Indians,Ishan Kishan,0
+51,Dubai International Cricket Stadium,Mumbai Indians,SA Yadav,0
+51,Dubai International Cricket Stadium,Mumbai Indians,KH Pandya,2
+51,Dubai International Cricket Stadium,Mumbai Indians,KA Pollard,1
+51,Dubai International Cricket Stadium,Mumbai Indians,HH Pandya,2
+51,Dubai International Cricket Stadium,Mumbai Indians,AF Milne,4
+51,Dubai International Cricket Stadium,Mumbai Indians,RD Chahar,3
+51,Dubai International Cricket Stadium,Mumbai Indians,JJ Bumrah,4
+51,Dubai International Cricket Stadium,Mumbai Indians,TA Boult,4
+52,Dubai International Cricket Stadium,Sunrisers Hyderabad,JJ Roy,0
+52,Dubai International Cricket Stadium,Sunrisers Hyderabad,WP Saha,0
+52,Dubai International Cricket Stadium,Sunrisers Hyderabad,KS Williamson,0
+52,Dubai International Cricket Stadium,Sunrisers Hyderabad,PK Garg,0
+52,Dubai International Cricket Stadium,Sunrisers Hyderabad,Abhishek Sharma,0
+52,Dubai International Cricket Stadium,Sunrisers Hyderabad,Abdul Samad,0
+52,Dubai International Cricket Stadium,Sunrisers Hyderabad,JO Holder,4
+52,Dubai International Cricket Stadium,Sunrisers Hyderabad,Rashid Khan,4
+52,Dubai International Cricket Stadium,Sunrisers Hyderabad,B Kumar,4
+52,Dubai International Cricket Stadium,Sunrisers Hyderabad,S Kaul,4
+52,Dubai International Cricket Stadium,Sunrisers Hyderabad,Umran Malik,4
+52,Dubai International Cricket Stadium,Kolkata Knight Riders,Shubman Gill,0
+52,Dubai International Cricket Stadium,Kolkata Knight Riders,VR Iyer,0
+52,Dubai International Cricket Stadium,Kolkata Knight Riders,RA Tripathi,0
+52,Dubai International Cricket Stadium,Kolkata Knight Riders,N Rana,0
+52,Dubai International Cricket Stadium,Kolkata Knight Riders,KD Karthik,0
+52,Dubai International Cricket Stadium,Kolkata Knight Riders,EJG Morgan,0
+52,Dubai International Cricket Stadium,Kolkata Knight Riders,Shakib Al Hasan,4
+52,Dubai International Cricket Stadium,Kolkata Knight Riders,SP Narine,4
+52,Dubai International Cricket Stadium,Kolkata Knight Riders,TG Southee,4
+52,Dubai International Cricket Stadium,Kolkata Knight Riders,CV Varun,4
+52,Dubai International Cricket Stadium,Kolkata Knight Riders,Shivam Mavi,4
+53,Dubai International Cricket Stadium,Chennai Super Kings,RD Gaikwad,0
+53,Dubai International Cricket Stadium,Chennai Super Kings,F du Plessis,0
+53,Dubai International Cricket Stadium,Chennai Super Kings,RV Uthappa,0
+53,Dubai International Cricket Stadium,Chennai Super Kings,MM Ali,2
+53,Dubai International Cricket Stadium,Chennai Super Kings,AT Rayudu,0
+53,Dubai International Cricket Stadium,Chennai Super Kings,MS Dhoni,0
+53,Dubai International Cricket Stadium,Chennai Super Kings,RA Jadeja,2
+53,Dubai International Cricket Stadium,Chennai Super Kings,DJ Bravo,4
+53,Dubai International Cricket Stadium,Chennai Super Kings,DL Chahar,4
+53,Dubai International Cricket Stadium,Chennai Super Kings,SN Thakur,4
+53,Dubai International Cricket Stadium,Chennai Super Kings,JR Hazlewood,4
+53,Dubai International Cricket Stadium,Delhi Capitals,PP Shaw,0
+53,Dubai International Cricket Stadium,Delhi Capitals,S Dhawan,0
+53,Dubai International Cricket Stadium,Delhi Capitals,SS Iyer,0
+53,Dubai International Cricket Stadium,Delhi Capitals,RR Pant,0
+53,Dubai International Cricket Stadium,Delhi Capitals,RV Patel,1
+53,Dubai International Cricket Stadium,Delhi Capitals,R Ashwin,4
+53,Dubai International Cricket Stadium,Delhi Capitals,SO Hetmyer,0
+53,Dubai International Cricket Stadium,Delhi Capitals,AR Patel,3
+53,Dubai International Cricket Stadium,Delhi Capitals,K Rabada,4
+53,Dubai International Cricket Stadium,Delhi Capitals,Avesh Khan,4
+53,Dubai International Cricket Stadium,Delhi Capitals,A Nortje,4
+54,Dubai International Cricket Stadium,Rajasthan Royals,E Lewis,0
+54,Dubai International Cricket Stadium,Rajasthan Royals,YBK Jaiswal,0
+54,Dubai International Cricket Stadium,Rajasthan Royals,SV Samson,0
+54,Dubai International Cricket Stadium,Rajasthan Royals,LS Livingstone,0
+54,Dubai International Cricket Stadium,Rajasthan Royals,MK Lomror,0
+54,Dubai International Cricket Stadium,Rajasthan Royals,R Parag,1
+54,Dubai International Cricket Stadium,Rajasthan Royals,R Tewatia,3
+54,Dubai International Cricket Stadium,Rajasthan Royals,CH Morris,4
+54,Dubai International Cricket Stadium,Rajasthan Royals,C Sakariya,4
+54,Dubai International Cricket Stadium,Rajasthan Royals,Kartik Tyagi,4
+54,Dubai International Cricket Stadium,Rajasthan Royals,Mustafizur Rahman,4
+54,Dubai International Cricket Stadium,Punjab Kings,KL Rahul,0
+54,Dubai International Cricket Stadium,Punjab Kings,MA Agarwal,0
+54,Dubai International Cricket Stadium,Punjab Kings,AK Markram,0
+54,Dubai International Cricket Stadium,Punjab Kings,N Pooran,0
+54,Dubai International Cricket Stadium,Punjab Kings,DJ Hooda,1
+54,Dubai International Cricket Stadium,Punjab Kings,FA Allen,2
+54,Dubai International Cricket Stadium,Punjab Kings,IC Porel,3
+54,Dubai International Cricket Stadium,Punjab Kings,AU Rashid,3
+54,Dubai International Cricket Stadium,Punjab Kings,Harpreet Brar,3
+54,Dubai International Cricket Stadium,Punjab Kings,Arshdeep Singh,4
+54,Dubai International Cricket Stadium,Punjab Kings,Mohammed Shami,4
+55,Sharjah Cricket Stadium,Mumbai Indians,RG Sharma,0
+55,Sharjah Cricket Stadium,Mumbai Indians,Q de Kock,0
+55,Sharjah Cricket Stadium,Mumbai Indians,SA Yadav,0
+55,Sharjah Cricket Stadium,Mumbai Indians,SS Tiwary,0
+55,Sharjah Cricket Stadium,Mumbai Indians,KA Pollard,0
+55,Sharjah Cricket Stadium,Mumbai Indians,HH Pandya,2
+55,Sharjah Cricket Stadium,Mumbai Indians,KH Pandya,3
+55,Sharjah Cricket Stadium,Mumbai Indians,NM Coulter-Nile,4
+55,Sharjah Cricket Stadium,Mumbai Indians,J Yadav,3
+55,Sharjah Cricket Stadium,Mumbai Indians,JJ Bumrah,4
+55,Sharjah Cricket Stadium,Mumbai Indians,TA Boult,4
+55,Sharjah Cricket Stadium,Delhi Capitals,PP Shaw,0
+55,Sharjah Cricket Stadium,Delhi Capitals,S Dhawan,0
+55,Sharjah Cricket Stadium,Delhi Capitals,SPD Smith,0
+55,Sharjah Cricket Stadium,Delhi Capitals,RR Pant,0
+55,Sharjah Cricket Stadium,Delhi Capitals,SS Iyer,0
+55,Sharjah Cricket Stadium,Delhi Capitals,AR Patel,4
+55,Sharjah Cricket Stadium,Delhi Capitals,SO Hetmyer,0
+55,Sharjah Cricket Stadium,Delhi Capitals,R Ashwin,4
+55,Sharjah Cricket Stadium,Delhi Capitals,K Rabada,4
+55,Sharjah Cricket Stadium,Delhi Capitals,Avesh Khan,4
+55,Sharjah Cricket Stadium,Delhi Capitals,A Nortje,4
+56,Sharjah Cricket Stadium,Royal Challengers Bangalore,V Kohli,0
+56,Sharjah Cricket Stadium,Royal Challengers Bangalore,D Padikkal,0
+56,Sharjah Cricket Stadium,Royal Challengers Bangalore,AB de Villiers,0
+56,Sharjah Cricket Stadium,Royal Challengers Bangalore,GJ Maxwell,1
+56,Sharjah Cricket Stadium,Royal Challengers Bangalore,TH David,2
+56,Sharjah Cricket Stadium,Royal Challengers Bangalore,HV Patel,3
+56,Sharjah Cricket Stadium,Royal Challengers Bangalore,PWH de Silva,2
+56,Sharjah Cricket Stadium,Royal Challengers Bangalore,KS Bharat,0
+56,Sharjah Cricket Stadium,Royal Challengers Bangalore,NA Saini,4
+56,Sharjah Cricket Stadium,Royal Challengers Bangalore,Mohammed Siraj,4
+56,Sharjah Cricket Stadium,Royal Challengers Bangalore,YS Chahal,4
+56,Sharjah Cricket Stadium,Chennai Super Kings,RD Gaikwad,0
+56,Sharjah Cricket Stadium,Chennai Super Kings,F du Plessis,0
+56,Sharjah Cricket Stadium,Chennai Super Kings,MM Ali,2
+56,Sharjah Cricket Stadium,Chennai Super Kings,AT Rayudu,0
+56,Sharjah Cricket Stadium,Chennai Super Kings,SK Raina,1
+56,Sharjah Cricket Stadium,Chennai Super Kings,MS Dhoni,0
+56,Sharjah Cricket Stadium,Chennai Super Kings,RA Jadeja,2
+56,Sharjah Cricket Stadium,Chennai Super Kings,DJ Bravo,3
+56,Sharjah Cricket Stadium,Chennai Super Kings,SN Thakur,4
+56,Sharjah Cricket Stadium,Chennai Super Kings,DL Chahar,4
+56,Sharjah Cricket Stadium,Chennai Super Kings,JR Hazlewood,4
+57,Dubai International Cricket Stadium,Delhi Capitals,PP Shaw,0
+57,Dubai International Cricket Stadium,Delhi Capitals,S Dhawan,0
+57,Dubai International Cricket Stadium,Delhi Capitals,SS Iyer,0
+57,Dubai International Cricket Stadium,Delhi Capitals,AR Patel,2
+57,Dubai International Cricket Stadium,Delhi Capitals,RR Pant,0
+57,Dubai International Cricket Stadium,Delhi Capitals,SO Hetmyer,0
+57,Dubai International Cricket Stadium,Delhi Capitals,TK Curran,3
+57,Dubai International Cricket Stadium,Delhi Capitals,R Ashwin,3
+57,Dubai International Cricket Stadium,Delhi Capitals,K Rabada,4
+57,Dubai International Cricket Stadium,Delhi Capitals,Avesh Khan,4
+57,Dubai International Cricket Stadium,Delhi Capitals,A Nortje,4
+57,Dubai International Cricket Stadium,Chennai Super Kings,RD Gaikwad,0
+57,Dubai International Cricket Stadium,Chennai Super Kings,F du Plessis,0
+57,Dubai International Cricket Stadium,Chennai Super Kings,RV Uthappa,0
+57,Dubai International Cricket Stadium,Chennai Super Kings,SN Thakur,3
+57,Dubai International Cricket Stadium,Chennai Super Kings,AT Rayudu,0
+57,Dubai International Cricket Stadium,Chennai Super Kings,MM Ali,3
+57,Dubai International Cricket Stadium,Chennai Super Kings,MS Dhoni,0
+57,Dubai International Cricket Stadium,Chennai Super Kings,RA Jadeja,2
+57,Dubai International Cricket Stadium,Chennai Super Kings,DJ Bravo,4
+57,Dubai International Cricket Stadium,Chennai Super Kings,DL Chahar,4
+57,Dubai International Cricket Stadium,Chennai Super Kings,JR Hazlewood,4
+58,Sharjah Cricket Stadium,Royal Challengers Bangalore,D Padikkal,0
+58,Sharjah Cricket Stadium,Royal Challengers Bangalore,V Kohli,0
+58,Sharjah Cricket Stadium,Royal Challengers Bangalore,KS Bharat,0
+58,Sharjah Cricket Stadium,Royal Challengers Bangalore,GJ Maxwell,0
+58,Sharjah Cricket Stadium,Royal Challengers Bangalore,AB de Villiers,0
+58,Sharjah Cricket Stadium,Royal Challengers Bangalore,Shahbaz Ahmed,3
+58,Sharjah Cricket Stadium,Royal Challengers Bangalore,DT Christian,3
+58,Sharjah Cricket Stadium,Royal Challengers Bangalore,HV Patel,3
+58,Sharjah Cricket Stadium,Royal Challengers Bangalore,GHS Garton,3
+58,Sharjah Cricket Stadium,Royal Challengers Bangalore,Mohammed Siraj,4
+58,Sharjah Cricket Stadium,Royal Challengers Bangalore,YS Chahal,4
+58,Sharjah Cricket Stadium,Kolkata Knight Riders,Shubman Gill,0
+58,Sharjah Cricket Stadium,Kolkata Knight Riders,VR Iyer,0
+58,Sharjah Cricket Stadium,Kolkata Knight Riders,RA Tripathi,0
+58,Sharjah Cricket Stadium,Kolkata Knight Riders,N Rana,0
+58,Sharjah Cricket Stadium,Kolkata Knight Riders,SP Narine,4
+58,Sharjah Cricket Stadium,Kolkata Knight Riders,KD Karthik,0
+58,Sharjah Cricket Stadium,Kolkata Knight Riders,EJG Morgan,0
+58,Sharjah Cricket Stadium,Kolkata Knight Riders,Shakib Al Hasan,4
+58,Sharjah Cricket Stadium,Kolkata Knight Riders,LH Ferguson,4
+58,Sharjah Cricket Stadium,Kolkata Knight Riders,Shivam Mavi,4
+58,Sharjah Cricket Stadium,Kolkata Knight Riders,CV Varun,4
+59,Sharjah Cricket Stadium,Delhi Capitals,PP Shaw,0
+59,Sharjah Cricket Stadium,Delhi Capitals,S Dhawan,0
+59,Sharjah Cricket Stadium,Delhi Capitals,MP Stoinis,1
+59,Sharjah Cricket Stadium,Delhi Capitals,SS Iyer,0
+59,Sharjah Cricket Stadium,Delhi Capitals,RR Pant,0
+59,Sharjah Cricket Stadium,Delhi Capitals,SO Hetmyer,0
+59,Sharjah Cricket Stadium,Delhi Capitals,AR Patel,3
+59,Sharjah Cricket Stadium,Delhi Capitals,R Ashwin,4
+59,Sharjah Cricket Stadium,Delhi Capitals,K Rabada,4
+59,Sharjah Cricket Stadium,Delhi Capitals,Avesh Khan,4
+59,Sharjah Cricket Stadium,Delhi Capitals,A Nortje,4
+59,Sharjah Cricket Stadium,Kolkata Knight Riders,Shubman Gill,0
+59,Sharjah Cricket Stadium,Kolkata Knight Riders,VR Iyer,0
+59,Sharjah Cricket Stadium,Kolkata Knight Riders,N Rana,0
+59,Sharjah Cricket Stadium,Kolkata Knight Riders,RA Tripathi,0
+59,Sharjah Cricket Stadium,Kolkata Knight Riders,KD Karthik,0
+59,Sharjah Cricket Stadium,Kolkata Knight Riders,EJG Morgan,0
+59,Sharjah Cricket Stadium,Kolkata Knight Riders,Shakib Al Hasan,4
+59,Sharjah Cricket Stadium,Kolkata Knight Riders,SP Narine,4
+59,Sharjah Cricket Stadium,Kolkata Knight Riders,LH Ferguson,4
+59,Sharjah Cricket Stadium,Kolkata Knight Riders,Shivam Mavi,4
+59,Sharjah Cricket Stadium,Kolkata Knight Riders,CV Varun,4
+60,Dubai International Cricket Stadium,Chennai Super Kings,RD Gaikwad,0
+60,Dubai International Cricket Stadium,Chennai Super Kings,F du Plessis,0
+60,Dubai International Cricket Stadium,Chennai Super Kings,RV Uthappa,0
+60,Dubai International Cricket Stadium,Chennai Super Kings,MM Ali,2
+60,Dubai International Cricket Stadium,Chennai Super Kings,AT Rayudu,0
+60,Dubai International Cricket Stadium,Chennai Super Kings,MS Dhoni,0
+60,Dubai International Cricket Stadium,Chennai Super Kings,RA Jadeja,2
+60,Dubai International Cricket Stadium,Chennai Super Kings,DJ Bravo,4
+60,Dubai International Cricket Stadium,Chennai Super Kings,SN Thakur,4
+60,Dubai International Cricket Stadium,Chennai Super Kings,DL Chahar,4
+60,Dubai International Cricket Stadium,Chennai Super Kings,JR Hazlewood,4
+60,Dubai International Cricket Stadium,Kolkata Knight Riders,Shubman Gill,0
+60,Dubai International Cricket Stadium,Kolkata Knight Riders,VR Iyer,0
+60,Dubai International Cricket Stadium,Kolkata Knight Riders,N Rana,0
+60,Dubai International Cricket Stadium,Kolkata Knight Riders,SP Narine,4
+60,Dubai International Cricket Stadium,Kolkata Knight Riders,EJG Morgan,0
+60,Dubai International Cricket Stadium,Kolkata Knight Riders,KD Karthik,0
+60,Dubai International Cricket Stadium,Kolkata Knight Riders,Shakib Al Hasan,4
+60,Dubai International Cricket Stadium,Kolkata Knight Riders,RA Tripathi,0
+60,Dubai International Cricket Stadium,Kolkata Knight Riders,LH Ferguson,4
+60,Dubai International Cricket Stadium,Kolkata Knight Riders,Shivam Mavi,4
+60,Dubai International Cricket Stadium,Kolkata Knight Riders,CV Varun,4
